@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on morganwebdev&#39;s blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on morganwebdev&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Morgan Murrah</copyright>
+    <lastBuildDate>Fri, 11 Dec 2020 17:14:51 -0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Hugo</title>
+      <link>/posts/hello-hugo/</link>
+      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
+      
+      <guid>/posts/hello-hugo/</guid>
+      <description>Introduction to my new blog Hello. This is the first blog post on my deceptively simple new Hugo blog. I am using the Cactus Theme on Github with just a few modifications.
+I really like a bunch of things about Hugo. Notably I was able to get started insanely fast without feeling like I was downloading a mountain of dependencies with NPM like when I tried (successfully, after much tooling around) to set up a blog with Gatsby.</description>
+    </item>
+    
+  </channel>
+</rss>

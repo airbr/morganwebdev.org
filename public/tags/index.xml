@@ -62,5 +62,50 @@
       <description></description>
     </item>
     
+    <item>
+      <title>github</title>
+      <link>/tags/github/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlify</title>
+      <link>/tags/netlify/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagination</title>
+      <link>/tags/pagination/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pagination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parcel.js</title>
+      <link>/tags/parcel.js/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/parcel.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>/tags/security/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/security/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

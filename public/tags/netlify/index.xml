@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netlify on morganwebdev&#39;s blog</title>
+    <link>/tags/netlify/</link>
+    <description>Recent content in netlify on morganwebdev&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Morgan Murrah</copyright>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020</title>
+      <link>/posts/2020/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/</guid>
+      <description>TLDR; I survived 2020 and managed a few wins What a year. What an incredible, awful, moving, emotional, massive year just to name a few adjectives. As of writing this post I am fortunate to have avoided catching COVID-19 through a combination of luck and social distancing and other precautions I have taken consistently since March. Vaccines are being rolled out across the world and can&amp;rsquo;t come soon enough to as many people as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

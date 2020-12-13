@@ -53,12 +53,38 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2020-12-11T17:51:42+00:00</lastmod>
+    <loc>/posts/2020/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2020/</loc>
+    <loc>/tags/github/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/netlify/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pagination/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/parcel.js/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/security/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-12-11T17:51:42+00:00</lastmod>
   </url>
   
   <url>

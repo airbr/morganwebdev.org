@@ -18,5 +18,14 @@
 I really like a bunch of things about Hugo. Notably I was able to get started insanely fast without feeling like I was downloading a mountain of dependencies with NPM like when I tried (successfully, after much tooling around) to set up a blog with Gatsby.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/posts/2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

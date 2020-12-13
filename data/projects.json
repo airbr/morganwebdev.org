@@ -1,0 +1,29 @@
+{
+  "list": [
+    {
+      "name":"This blog",
+      "url":"https://github.com/airbr/morganwebdev.org",
+      "desc":"Repo for this site"
+    },
+    {
+      "name":"My personal website",
+      "url":"https://morganwebdev.com",
+      "desc":"HTML5 + devices.css + parcel.js + Netlify"
+    },
+    {
+      "name":"Freespot",
+      "url":"https://park4-pwa.herokuapp.com/",
+      "desc":"Ruby on Rails Application integrating the Google Maps API and Foundation CSS Framework. Not maintained."
+    },
+    {
+      "name":"Web Dev Jeopardy",
+      "url":"https://wdijeopardy.firebaseapp.com/",
+      "desc":"My very first HTML/CSS/JS project from 2016 refactored with CSS Grid and Docker support. See where I started!"
+    },
+    {
+      "name":"JavaScript Strings",
+      "url":"https://stupefied-bhabha-97831c.netlify.app/",
+      "desc":"Modern JS demo; Enter some text and get some stats back"
+    }
+  ]
+}

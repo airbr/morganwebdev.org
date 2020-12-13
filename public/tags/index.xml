@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on morganwebdev&#39;s blog</title>
-    <link>/tags/</link>
+    <link>https://morganwebdev.org/tags/</link>
     <description>Recent content in Tags on morganwebdev&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Fri, 11 Dec 2020 17:14:51 -0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020</title>
-      <link>/tags/2020/</link>
-      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
+      <link>https://morganwebdev.org/tags/2020/</link>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
       
-      <guid>/tags/2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
-      
-      <guid>/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>developer</title>
-      <link>/tags/developer/</link>
-      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
-      
-      <guid>/tags/developer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hexo</title>
-      <link>/tags/hexo/</link>
-      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
-      
-      <guid>/tags/hexo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
-      
-      <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>new</title>
-      <link>/tags/new/</link>
-      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
-      
-      <guid>/tags/new/</guid>
+      <guid>https://morganwebdev.org/tags/2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>/tags/github/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <link>https://morganwebdev.org/tags/github/</link>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
       
-      <guid>/tags/github/</guid>
+      <guid>https://morganwebdev.org/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>netlify</title>
-      <link>/tags/netlify/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <link>https://morganwebdev.org/tags/netlify/</link>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
       
-      <guid>/tags/netlify/</guid>
+      <guid>https://morganwebdev.org/tags/netlify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pagination</title>
-      <link>/tags/pagination/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <link>https://morganwebdev.org/tags/pagination/</link>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
       
-      <guid>/tags/pagination/</guid>
+      <guid>https://morganwebdev.org/tags/pagination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>parcel.js</title>
-      <link>/tags/parcel.js/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <link>https://morganwebdev.org/tags/parcel.js/</link>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
       
-      <guid>/tags/parcel.js/</guid>
+      <guid>https://morganwebdev.org/tags/parcel.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>/tags/security/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <link>https://morganwebdev.org/tags/security/</link>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
       
-      <guid>/tags/security/</guid>
+      <guid>https://morganwebdev.org/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://morganwebdev.org/tags/blog/</link>
+      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developer</title>
+      <link>https://morganwebdev.org/tags/developer/</link>
+      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexo</title>
+      <link>https://morganwebdev.org/tags/hexo/</link>
+      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://morganwebdev.org/tags/hugo/</link>
+      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://morganwebdev.org/tags/new/</link>
+      <pubDate>Fri, 11 Dec 2020 17:14:51 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/new/</guid>
       <description></description>
     </item>
     

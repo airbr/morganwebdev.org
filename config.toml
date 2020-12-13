@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://morganwebdev.org"
 languageCode = "en-us"
 title = "morganwebdev's blog"
 theme = "cactus"
@@ -45,7 +45,7 @@ weight = 4
   # Home page settings
   description = "My name is Morgan Murrah. I am a developer working remotely from Bellingham, Washington State, USA."
   mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
+  showAllPostsOnHomePage = true # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).

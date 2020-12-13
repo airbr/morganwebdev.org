@@ -1,6 +1,6 @@
 [build]
-publish = "public"  // default hugo build folder
-command = "" // hugo build command
+publish = "public"
+command = ""
 
 [context.production.environment]
 HUGO_VERSION = "0.79"

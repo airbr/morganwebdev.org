@@ -1,7 +1,7 @@
 ---
 title: "GitHub Mentoring"
 date: 2020-12-13T12:00:00-08:00
-draft: false
+draft: true
 tags: 
     - 2020
     - github
@@ -9,23 +9,23 @@ tags:
     - job hunting
 ---
 
-## Over the course of 2020 I mentored six up and coming software developers from the [Bellingham Codes](https://bellingham.codes) and [Tech404](https://tech404.github.io/) communities about how to optimize their GitHub to prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. 
+## Over the course of 2020 I mentored six up and coming software developers from the [Bellingham Codes](https://bellingham.codes) and [Tech404](https://tech404.github.io/) communities. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it's like getting started in the industry today. 
 
-## This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers in 2020. 
+## This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers in 2020. It follows a few stages: About me, testimonials and then my advice.
 
 # Spoiler: It is not all about the contribution graph.
 
 First... I am biased towards GitHub and I think it can be quite important. For some people, especially experienced programmers who were around before Git and GitHub, it may be [completely unnecessary and frustrating that people now think it is important](https://www.quora.com/What-do-you-think-about-a-coder-who-does-not-have-Github-account). My bias comes from my (in)experience and naive wisdom: my GitHub profile was essential in getting my first full time remote developer job that changed my life. 
 
-I believe it is a reality in the job market that having a GitHub is expected for many jobs or to work with recruiters for anyone starting out especially if you are a career changer or come from a non traditional background. If you don't have a CS Degree to lean on to get into the interview where you are then expected to show your skills on a whiteboard or something like that... things can be tough to get your foot in the door.
+I believe it is a reality in the job market that having a GitHub account is expected for many jobs or to work with recruiters for anyone starting out especially if you are a career changer or come from a non traditional background. If you don't have a Computer Science Degree to get into the interview process things can be tough to get your foot in the door.
 
-I applied for quite a few jobs and worked with several recruitment agencies. When I got an interview for a full time remote web developer position I was asked about stuff on my GitHub which I had linked in my resume. I answered questions and talked about my projects. I was particularly asked about the project [FreeSpot](https://github.com/airbr/freespot) and then... I got the job. Sure, they seemed reasonably interested in my [law degree](/about) and other things but if I did not have a GitHub or if it was not up to scratch I don't know if I would have got the job especially as I was interviewed remotely.
+I applied for quite a few jobs and worked with several recruitment agencies. When I got an interview for a full time remote web developer position I was asked about stuff on my GitHub account which I had linked in my resume. I answered questions and talked about my projects. I was particularly asked about the project [FreeSpot](https://github.com/airbr/freespot) and then... I got the job. Sure, they seemed reasonably interested in my [law degree](/about) and other things but if I did not have a GitHub account or if it was not up to scratch I don't know if I would have gotten the job especially as I was interviewed remotely.
 
-I gained a fascination for GitHub that stuck with me after I gained my first software job. I don't have a huge amount of contributions like some people do: my contribution graph is actually very barren. This is a  common thing for many people who get a job but don't work in open source: most of our code is proprietary. Some developers argue they don't need their GitHub anymore once they get a job except maybe using it for hobby stuff if they have any time for that outside of work (and many don't). For many people if they work on weekends they work to get paid... not make side projects on GitHub. 
+I became fascinated with GitHub and it stuck with me after I gained my first software job. I don't have a huge amount of contributions like some people do: my contribution graph is quite barren. This is a common thing for many people who get a job but don't work in open source: most of our code is proprietary. Some developers argue they don't need their GitHub anymore once they get a job except maybe using it for hobby stuff if they have any time for that outside of work (and many don't). For many people if they work on weekends they work to get paid... not make side projects on GitHub. 
 
 Despite the apparent lack of necessity of GitHub after I got "the job" I still worked to curate a selection of [repositories](https://github.com/airbr?tab=repositories), [forks](https://github.com/airbr?tab=repositories&q=&type=fork&language=), [stars](https://github.com/airbr?tab=stars) and [ReadMe's](https://github.com/airbr/airbr/blob/master/README.md). I think that these cumulatively say something about me for anyone that might be interested for a future opportunity whether work or non-work related.
 
-I love mentoring about GitHub mainly because it is actually... kind of easy. Learning Git is the big hurdle. Once you have the basics of Git down the essence of GitHub is really about learning some [Markdown](https://en.wikipedia.org/wiki/Markdown) for writing [ReadMe's](https://en.wikipedia.org/wiki/README): the rest is following an intuitive UI. You need code to put on your profile... but it doesn't even have to be your own original code. Sometimes it is even better if it is not original: copying and remixing is the bread and butter of most developers lives and as I discuss below some people looking at your profile will understand that.
+I love mentoring about GitHub mainly because it is actually... kind of easy. Learning Git is the big hurdle. Once you have the basics of Git down the essence of GitHub is really about learning some [Markdown](https://en.wikipedia.org/wiki/Markdown) for writing [ReadMe's](https://en.wikipedia.org/wiki/README): the rest is following an intuitive UI. You need code to put on your profile... but it doesn't even have to be your own original code. Sometimes it is even better if it's not original: copying and remixing is the bread and butter of most developers lives and as I discuss below some people looking at your profile will understand that.
 
 Mostly it is just encouragement. __Do stuff!__ . A lot of the things we will see are quite easy to do from the UI of the site to breathe life into your projects. You can have a look at [my imperfect github](https://github.com/airbr)... I am willing to put it out there as an imperfect profile but one that got me a job. 
 
@@ -45,7 +45,7 @@ Mostly it is just encouragement. __Do stuff!__ . A lot of the things we will see
 
 * __Re-brand School work and tutorials as personalized content__
 
-* __Have 4-6 Pinned repositories with fully detailed Readmes__
+* __Have 4-6 Pinned repositories with fully detailed ReadMe__
 
 * __Add Topics to your repositories__
 
@@ -88,21 +88,21 @@ Mostly it is just encouragement. __Do stuff!__ . A lot of the things we will see
 
 Your projects and code might mean a lot to you. You may have poured a great deal of time into your repositories over months with the hope of using them towards getting a job. You may also have feelings of insecurity that whatever you put up is not polished enough: many people don't have their code/stuff on a place like GitHub at all because of these feelings.
 
-It is a tough reality that the person viewing your GitHub who might decide whether you get an interview or advance to the next stage could potentially be:
+The person viewing your GitHub account who might decide whether or not you get an interview or advance to the next stage could potentially be:
 
-* __Tired and pressured__ from viewing dozens of job applicants in a tight timeframe and unable to really appreciate nuance or a lot of detail. This was emphasized to me by quite a few people. I don't keep count but easily mentioned by atleast six that have been involved in hiring at some stage. 
+* __Tired and pressured__ from viewing dozens of job applicants in a tight timeframe and unable to really appreciate nuance or a lot of detail. This was emphasized to me by quite a few people. I don't keep count but easily mentioned by at least six that have been involved in hiring at some stage. 
 
     * __What do we do?__ We make it easy for them.
 
-* __Potentially less or non technical__ people, such as a recruiter, who are highly dependent on finding keywords in your GitHub to tick the checkboxes of what they are looking for. 
+* __Potentially less or non technical__ people, such as a recruiter, who are highly dependent on finding keywords in your GitHub to tick the check boxes of what they are looking for. 
 
-    * __What do we do?__ We make make it obvious for them. We use bold and consistent keywords. Think listing HTML5 is unneccesary as a technology in your ReadMe because it is 'not impressive enough to mention'? Think again!
+    * __What do we do?__ We make make it obvious for them. We use bold and consistent keywords. Think listing HTML5 is unnecessary as a technology in your ReadMe because it is 'not impressive enough to mention'? Think again!. We use topics in our repos.
 
 * __Unable or unwilling to actually run your code__ and reliant on the quality of your ReadMe's and other indicators of your coding ability to make a interim decision about you: many people don't have the luxury of cloning and building a project from a repository particularly on work machines.
 
-    * __What do we do?__ We include easily accessible human readable code such as in a /src directory in the top level of the project and make that the forefront of our projects. Dont obfuscate or minify everything!. We include a detailed ReadMe with media and information to support the viewer who cant run the project or read too deeply.
+    * __What do we do?__ We include easily accessible human readable code such as in a /src directory in the top level of the project and make that the forefront of our projects. Don't obfuscate or minify everything!. We include a detailed ReadMe with media and information to support the viewer who cant run the project or read too deeply.
 
-* __Instinctively judgmental__ based on perceptions of professionalism or that you are "just another bootcamp grad" or otherwise. You can't fight totally misguided assumptions - possibly you don't want to work for someone where such assumptions are made - but you can keep your profile on point as best you can.
+* __Instinctively judgmental__ based on perceptions of professionalism or that you are "just another boot camp grad" or otherwise. You can't fight totally misguided assumptions - possibly you don't want to work for someone where such assumptions are made - but you can keep your profile on point as best you can.
 
     * __What do we do?__ We personalize all our content to make it speak with our voice rather than the voice of a school, tutorial or otherwise. I describe what this means below.
 
@@ -111,7 +111,7 @@ It is a tough reality that the person viewing your GitHub who might decide wheth
 
 Your bio description should essentially include the job title you are seeking even if you are not there yet. "Developer", "Software Developer", "Software Engineer" are all examples of excellent titles to include in your description. Less is more, honestly.
 
-### what are the common issues?
+### What are the common issues?
 
 * No description at all. I talked to a few people who were not aware of the description section of the profile or who were too shy to put anything there. I encouraged them to be bold.
 
@@ -121,9 +121,9 @@ Your bio description should essentially include the job title you are seeking ev
 
     * "Creative problem solver with an eye for detail" - Potentially positive, still not ideal 
 
-    * "Human with a passion for technology" - Sure, great, Im looking for a developer to fill a job though!
+    * "Human with a passion for technology" - Sure, great, I'm looking for a developer to fill a job though!
 
-    These kinds of of bios are all well and good if you are just hacking around or just want to describe yourself how you want but it is a missed opportunity if you are job hunting. Whatever it is they are looking for they want to see which is likely just some variation of "Developer" or "Engineer".
+    These kinds of of bios are all well and good if you are just hacking around or want to describe yourself how you want but it is a missed opportunity if you are job hunting. Whatever it is they are looking for they want to see which is likely just some variation of "Developer" or "Engineer".
 
 * Remove references to being Junior (slightly controversial)
 
@@ -141,42 +141,37 @@ Your bio description should essentially include the job title you are seeking ev
 
 # Put a lot of stuff on there but don't spam it
 
- GitHub is a place to document your learning process as well as a place to show your polish that you want in a portfolio. You want to present your profile simultaneously for the non technical viewer as well as the curious technical viewer.
+ GitHub is a place to document your learning process as well as a place to show the polish you want in a portfolio. You want to present your profile simultaneously for the non technical viewer as well as the curious technical viewer.
 
-* A non technical viewer like a recruiter might see your Repos - quanitity of repos, your pinned repos, your profile image, your description, click a few ReadMe's and look for deployment links and technology keywords before ticking a checkbox to say "interview this candidate" or "pass off to the technical team for a look". They may not actually read your code at all directly.
+* A non technical viewer like a recruiter might see your repos - quanitity of repos, your pinned repos, your profile image, your description, click a few ReadMe's and look for deployment links and technology keywords before ticking a checkbox to say "interview this candidate" or "pass off to the technical team for a look". They may not actually read your code at all directly.
 
 * A technical viewer might see that you put in 120 commits on your first project and took it from nothing to what it is today, and that you used a build process to minimize your code that you deployed. They may even click into the history of the project to see a window into your development process. They want to see you know how to use Git. Branching? Releases? Tags? these can all help you.
 
-You are ideally aiming for quality not sheer quantity of repos and commits but in general more is better!
-
-Quality is contextual - make ReadMe's! A broken or outdated Repo or project has value if the readme and surrounding information can put it into context. Suddenly your "broken code" or "incomplete project" becomes a documented piece of progress you made. Don't let perfect be the enemy of the good.
+You are ideally aiming for quality not sheer quantity of repos and commits but in general more is better! Quality is contextual - make ReadMe's! A broken or outdated repo or project has value if the ReadMe and surrounding information can put it into context. Suddenly your "broken code" or "incomplete project" becomes a documented piece of progress you made. Don't let perfect be the enemy of the good.
 
 ### What are the common issues?
 
 * Common: barren profiles.
 
-An empty profile wont help if you submit it as part of a job application and maybe it will harm you. I have talked to one hiring manager who particularly claimed frustration with empty GitHubs submitted with job apps. Even if you don't have a lot of original content with a little exploration of forking and starring projects will go a long way.
+An empty profile wont help if you submit it as part of a job application and maybe it will harm you. I have talked to one hiring manager who particularly claimed frustration with empty GitHub accounts submitted with job apps. Even if you don't have a lot of original content with a little exploration of forking and starring projects will go a long way.
 
 * Less common: spammy profile. 
 
-Forking everything and starring hundreds or thousands of Repos (I don't know a number but for discussion lets say more than 400+ Repos is a sign you should start trimming down, not expanding.). Unless you are really a machine not many will have Readmes or context to be useful to a prospective employer. It maybe shows you are very active and clicking lots but it doesn't show care and attention to what you present. 
+Forking everything and starring hundreds or thousands of repos (I don't know a number but for discussion lets say more than 400+ repos is a sign you should start trimming down, not expanding.). Unless you are really a machine not many will have ReadMes or context to be useful to a prospective employer. It maybe shows you are very active and clicking lots but it doesn't show care and attention to what you present. 
 
 # [Create a personal profile ReadMe](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
 * [Personal profile ReadMe = Great way to command real estate on your page](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
 
-This is a little chance to show off what you are and what you want to be. To me it shows you someone is engaged with the GitHub platform and I think it demonstrates a perception of being a plugged in developer to some people.
-
-Markdown! The language of ReadMe's! the personal profile readme is a chance to demonstrate your knowledge of markdown. 
-
+This is a little chance to show off what you are and what you want to be. To me it shows you someone is engaged with the GitHub platform and I think it demonstrates a perception of being a plugged in developer to some people. Markdown! The language of ReadMe's! the personal profile ReadMe is a chance to demonstrate your knowledge of markdown. 
 
 ### What are the common issues?
 
-* No profile Readme... just a small missed opportunity. Not the biggest deal but hey.
+* No profile ReadMe... just a small missed opportunity. Not the biggest deal but hey.
 
 # Rebrand Schoolwork and tutorials as personalized content
 
-I __strongly__ advise putting in a little effort to tweak and transform some of your school work and tutorials into more personalized content. This is not the same as claiming it is all original work or misleading people- it is about rebranding it to present your own narrative on what the work is rather than presenting just another course you plugged through.
+I __strongly__ advise putting in a little effort to tweak and transform some of your school work and tutorials into more personalized content. This is not the same as claiming its all original work or misleading people- it is about rebranding it to present your own narrative on what the work is rather than presenting just another course you plugged through.
 
 What we are trying to avoid is your profile coming across like "just another student" or "just another bootcamp grad". With just a few small tweaks you can put your mark on potentially every Repo of school work or tutorial work to give off a potentially much more positive impression.
 
@@ -184,9 +179,9 @@ What do you mean?
 
 * Remove upfront references to your bootcamp, school or tutorial
 
-    * You can see from my GitHub history that I had originally littered it with references to my bootcamp (Web Development Immersive Cohort 7 in Atlanta) but that I gradually removed almost all of these references. They arent of any interest to an prospective hiring manager or developer: they only clutter and potentially give a perception of being inexperienced.
+    * You can see from my GitHub history that I had originally littered it with references to my bootcamp (Web Development Immersive Cohort 7 in Atlanta) but that I gradually removed almost all of these references. They aren't of any interest to an prospective hiring manager or developer: they only clutter and potentially give a perception of being inexperienced.
 
-* Add personal descriptions for your Repos showing what they mean to you and what their context is rather than just boilerplate. Consider adding a short description as if you had to "sell" the project to someone.
+* Add personal descriptions for your repos showing what they mean to you and what their context is rather than just boilerplate. Consider adding a short description as if you had to "sell" the project to someone.
 
     * "Flatiron MERN Stack Project #4" becomes "Company Visualization manager built with the MERN Stack; deployed with Firebase"
 
@@ -207,16 +202,16 @@ __Wired: ReadMe for: "Company database built with MySQL"__
 Example company database project built with MySQL utilizing foreign key relationships and a variety of data types. Committed over a week long period; plans to expand project in future. References: Chapter 3-5 Database programming 5th edition
 
 
-### It may still just be in fact school work but it is rebranded and gives a different impression: it speaks with a voice from you, not the school or tutorial. It is literally just rewording a few words in your description: I reccomend doing this with everything and at least doing it for your 4-6 pinned repos.
+## It may still just be in fact school work but it is rebranded and gives a different impression: it speaks with a voice from you, not the school or tutorial. It is literally just rewording a few words in your description: I recommend doing this with everything and at least doing it for your 4-6 pinned repos.
 
 
 # Have 4-6 Pinned repositories with full Readmes
 
-[Pinned ReadMes are what the viewer will definitely see when they see your profile (the default is to show your most popular repos)](https://github.blog/2016-06-16-pin-repositories-to-your-github-profile/). If you do not do much more try and pin 4-6 of your Repos and make them have good full ReadMe's.
+[Pinned ReadMes are what the viewer will definitely see when they see your profile (the default is to show your most popular repos)](https://github.blog/2016-06-16-pin-repositories-to-your-github-profile/). If you do not do much more try and pin 4-6 of your best repos and make them have good full ReadMe's.
 
 Full ReadMe example: [project FreeSpot circa 2016/2017](https://github.com/airbr/freespot/blob/master/readme.md)
 
-Freespot isn't perfect but its one of the Github projects that got me my job. Admittedly I haven't changed the ReadMe much or updated the project much since then. Some of what is in the Readme isn't fully inline with my own advice. Again, your readmes dont have to be perfect!
+Freespot isn't perfect but its one of the Github projects that got me my job. Admittedly I haven't changed the ReadMe much or updated the project much since then. Some of what is in the ReadMe isn't fully inline with my own advice. Again, your ReadMes don't have to be perfect!
 
 What makes FreeSpots readme a "full readme"?
 
@@ -224,8 +219,8 @@ What makes FreeSpots readme a "full readme"?
     * I was told by one software engineer I interviewed with for an internship "If there is a link there, I will click it"
 2. Reasonably clear build instructions near the top (in case they do want to run your project or even if they don't)
 3. Screenshots of the app or project in action (again, they may not have time to run your project)    
-4. A summary or description of the project as it exists (whats the goal of this? it is more than just to finish a tutorial I hope)
-5. Description of goals or future development (go hog wild! show that you care even if it is unlikely to progress)
+4. A summary or description of the project as it exists (whats the goal of this? it's more than just to finish a tutorial I hope)
+5. Description of goals or future development (go hog wild! show that you care even if it's unlikely to progress)
 6. List of any contributors or citations for inspiration/code used
 7. Technical specifications - Drop in names of tech and libraries used here for the viewer's benefit. Remember the viewer of your GitHub may be less technical! nothing wrong with listing HTML5, CSS3 for example.
 
@@ -235,15 +230,15 @@ What makes FreeSpots readme a "full readme"?
 
 # Visit github.com/trending
 
-Engagement! a little goes a long way. Everytime I look at [github.com/trending](https://github.com/trending) I find a cool Repo that I want to star or fork and I think you might feel the same if you check it out a few times. 
+Engagement! a little goes a long way. Every time I look at [github.com/trending](https://github.com/trending) I find a cool Repo that I want to star or fork and I think you might feel the same if you check it out a few times. 
 
 This is my pure biased opinion- I really like it when I see someone has starred a bunch of stuff. Not like spammy amounts of stars but has a curation aspect to their GitHub. A lot of what we do as working developers is curate libraries and tools made by others that we we want to use - not as much original work goes on as you might expect. Someone engaging with popular stuff on trending is one gauge of how plugged in they might be with the software world at large.
 
 # OSS Contributions: the gold standard
 
-I can't do this topic justice: it deserve a whole blog to itself. I am also not the best to write about it because other than being on a winning team from a hackathon in 2015 I have no particular open source contributions to my name.
+I can't do this topic justice: it deserves a whole blog to itself. I am also not the best to write about it because other than being on a winning team from a hackathon in 2015 I have no particular open source contributions to my name.
 
-Regardless... outside of paid work experience, open source contributions are arguably the best currency in your belt on GitHub or off of it on your resume towards getting a job.
+Still, Outside of paid work experience open source contributions are arguably the best currency in your belt on GitHub or off of it on your resume towards getting a job.
 
 # And with all that said...
 

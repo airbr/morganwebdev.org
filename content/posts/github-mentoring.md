@@ -104,7 +104,7 @@ Your bio description should essentially include the job title you are seeking ev
 
 # Use a good Image
 
-* For better or worse, Github includes your profile image with every link to a repository shared on mediums such as Linked or for example in Slack. It is the image that unfurls when a repository is linked somewhere so may as well make your image a good one to make a good impression! If you have a good photo you like of you that is arguably the best and most likely to build a connection.
+* For better or worse, Github includes your profile image with every link to a repository shared on mediums such as Linked or for example in Slack. It is the image that unfurls when a repository is linked somewhere so may as well make your image a good one to make a good impression! If you have a good photo or personalized image like even a bitmoji of you that you that is arguably the best and most likely to build a connection.
 
 ### what are the common issues?
 

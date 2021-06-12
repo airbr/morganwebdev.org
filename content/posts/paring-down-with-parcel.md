@@ -20,7 +20,7 @@ This is a small blog about how I pared down my personal website to a single page
 
 # What I want out of a personal website or 'my personal bag of hyperlinks'.
 
-I want people to be able to click and find almost my entire web presence linked from one place on mobile or desktop. I want the screen to load everything they need to see without the user needing to access any menus or dropdowns or nav. Some icons (Thank you Super Tiny Icons) made into buttons and some hyperlinks is all I need. Additionlly I made use of a CSS library called devices for a design.
+I want people to be able to click and find almost my entire web presence linked from one place on mobile or desktop. I want the screen to load everything they need to see without the user needing to access any menus or dropdowns or nav. Some icons (Thank you Super Tiny Icons) made into buttons and some hyperlinks is all I need. Additionally, I made use of a CSS library called devices for a design.
 
 There is a popular service called [Linktree](https://linktr.ee/) which I would compare to what I am trying to accomplish with my website in practical terms. I am not looking to provide a comprehensive portfolio experience in one place rather I want to give links for someone who wishes to learn about me from a variety of sources.
 

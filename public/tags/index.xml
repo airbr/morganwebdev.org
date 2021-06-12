@@ -7,7 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Fri, 12 Feb 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARIA</title>
+      <link>https://morganwebdev.org/tags/aria/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/aria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bundler</title>
+      <link>https://morganwebdev.org/tags/bundler/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/bundler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://morganwebdev.org/tags/css/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devices</title>
+      <link>https://morganwebdev.org/tags/devices/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://morganwebdev.org/tags/html/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parcel.js</title>
+      <link>https://morganwebdev.org/tags/parcel.js/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/parcel.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal website</title>
+      <link>https://morganwebdev.org/tags/personal-website/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/personal-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVG</title>
+      <link>https://morganwebdev.org/tags/svg/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/svg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyIcons</title>
+      <link>https://morganwebdev.org/tags/tinyicons/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/tinyicons/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2020</title>
       <link>https://morganwebdev.org/tags/2020/</link>
@@ -86,15 +167,6 @@
       <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/pagination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parcel.js</title>
-      <link>https://morganwebdev.org/tags/parcel.js/</link>
-      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/parcel.js/</guid>
       <description></description>
     </item>
     

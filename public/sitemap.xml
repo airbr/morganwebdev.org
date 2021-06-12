@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://morganwebdev.org/tags/aria/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/bundler/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/css/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/devices/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/html/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/parcel.js/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/paring-down-with-parcel/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/personal-website/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/svg/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/tinyicons/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/tags/2020/</loc>
     <lastmod>2021-02-12T12:00:00-08:00</lastmod>
   </url>
@@ -38,21 +103,6 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/</loc>
-    <lastmod>2021-02-12T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/posts/</loc>
-    <lastmod>2021-02-12T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/</loc>
-    <lastmod>2021-02-12T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://morganwebdev.org/tags/topics/</loc>
     <lastmod>2021-02-12T12:00:00-08:00</lastmod>
   </url>
@@ -69,11 +119,6 @@
   
   <url>
     <loc>https://morganwebdev.org/tags/pagination/</loc>
-    <lastmod>2020-12-12T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/parcel.js/</loc>
     <lastmod>2020-12-12T12:00:00-08:00</lastmod>
   </url>
   

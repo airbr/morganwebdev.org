@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>parcel.js on morganwebdev&#39;s blog</title>
-    <link>https://morganwebdev.org/tags/parcel.js/</link>
-    <description>Recent content in parcel.js on morganwebdev&#39;s blog</description>
+    <title>TinyIcons on morganwebdev&#39;s blog</title>
+    <link>https://morganwebdev.org/tags/tinyicons/</link>
+    <description>Recent content in TinyIcons on morganwebdev&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Fri, 11 Jun 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/parcel.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/tinyicons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paring down with Parcel.js</title>
       <link>https://morganwebdev.org/posts/paring-down-with-parcel/</link>
@@ -17,16 +17,6 @@
       <description>This is a small blog about how I pared down my personal website to a single page of HTML bundled with parcel.js. This was a change from a PWA Vue-CLI generated site using Webpack. I write this to express my appreciation of making maintenance easy and simplicity where possible.
 Link to the Repository
 What I want out of a personal website or &amp;lsquo;my personal bag of hyperlinks&amp;rsquo;. I want people to be able to click and find almost my entire web presence linked from one place on mobile or desktop.</description>
-    </item>
-    
-    <item>
-      <title>2020</title>
-      <link>https://morganwebdev.org/posts/2020/</link>
-      <pubDate>Sat, 12 Dec 2020 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/posts/2020/</guid>
-      <description>TLDR; I survived 2020 and managed a few wins What a year. What an incredible, awful, moving, emotional, massive year just to name a few adjectives.
-I have had a lot of time on the computer this year. I have put in a lot of work as a distraction. Despite everything I managed a few wins this year. I figure I would focus on them to celebrate a little in general and celebrate this blog and the topics I may explore in the posts to come:</description>
     </item>
     
   </channel>

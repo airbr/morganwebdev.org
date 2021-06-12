@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Fri, 12 Feb 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paring down with Parcel.js</title>
+      <link>https://morganwebdev.org/posts/paring-down-with-parcel/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/posts/paring-down-with-parcel/</guid>
+      <description>This is a small blog about how I pared down my personal website to a single page of HTML bundled with parcel.js. This was a change from a PWA Vue-CLI generated site using Webpack. I write this to express my appreciation of making maintenance easy and simplicity where possible.
+Link to the Repository
+What I want out of a personal website or &amp;lsquo;my personal bag of hyperlinks&amp;rsquo;. I want people to be able to click and find almost my entire web presence linked from one place on mobile or desktop.</description>
+    </item>
+    
     <item>
       <title>GitHub Mentoring</title>
       <link>https://morganwebdev.org/posts/github-mentoring/</link>

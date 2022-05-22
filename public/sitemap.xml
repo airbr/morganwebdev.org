@@ -13,22 +13,17 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/tags/aria/</loc>
-    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://morganwebdev.org/tags/css/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/tags/devices/</loc>
+    <loc>https://morganwebdev.org/tags/html/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/tags/html/</loc>
+    <loc>https://morganwebdev.org/tags/lighthouse/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   
@@ -68,7 +63,22 @@
   </url>
   
   <url>
+    <loc>https://morganwebdev.org/tags/validator/</loc>
+    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/aria/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/tags/bundler/</loc>
+    <lastmod>2021-06-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/devices/</loc>
     <lastmod>2021-06-11T12:00:00-08:00</lastmod>
   </url>
   

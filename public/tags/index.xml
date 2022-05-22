@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>ARIA</title>
-      <link>https://morganwebdev.org/tags/aria/</link>
-      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/aria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CSS</title>
       <link>https://morganwebdev.org/tags/css/</link>
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
@@ -45,20 +36,20 @@
     </item>
     
     <item>
-      <title>Devices</title>
-      <link>https://morganwebdev.org/tags/devices/</link>
-      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/devices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>HTML</title>
       <link>https://morganwebdev.org/tags/html/</link>
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighthouse</title>
+      <link>https://morganwebdev.org/tags/lighthouse/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/lighthouse/</guid>
       <description></description>
     </item>
     
@@ -90,11 +81,38 @@
     </item>
     
     <item>
+      <title>Validator</title>
+      <link>https://morganwebdev.org/tags/validator/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/validator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARIA</title>
+      <link>https://morganwebdev.org/tags/aria/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/aria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bundler</title>
       <link>https://morganwebdev.org/tags/bundler/</link>
       <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/bundler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devices</title>
+      <link>https://morganwebdev.org/tags/devices/</link>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/devices/</guid>
       <description></description>
     </item>
     

@@ -7,16 +7,13 @@ date: 2020-12-11 17:51:42
 
 When I returned to the USA in 2016 I considered for a while trying to practice law in the state of [Georgia](https://en.wikipedia.org/wiki/Georgia_(U.S._state)) (where I was born and lived 1989-1997 and then briefly in 2016) - [likely requiring further education and a waiver](https://www.gabaradmissions.org/waiver-process) - but I turned against the idea and moved towards doing software instead. I haven't looked back since. 
 
+I worked at the start-up EasyRx based out of Atlanta, GA for 4+ years focusing on the web for that company. Since December 2021, I have worked at WompMobile focusing on the web also.
+
 I enjoy art, reading and a little bit of dark European/[New Zealand](https://www.nomdstore.com/us/) style fashion particularly from Dunedin. I wear a lot of black and drink a lot of coffee.
+
+My development experience is 
 
 ---
 
-## Misc links
-
 * Github: [airbr](https://github.com/airbr)
-    
-* Pinboard: [Public list](https://pinboard.in/u:airbr/public/)
-
-* Stack Overflow: [morganwebdev](https://stackoverflow.com/users/6598884/morganwebdev)
-
 

@@ -767,9 +767,9 @@
   #header-post #nav {
     color: #2bbc8a;
     letter-spacing: 0.01em;
-    font-weight: 200;
+    font-weight: 500;
     font-style: normal;
-    font-size: 0.8rem;
+    font-size: 1,2rem;
   }
   #header-post #nav ul {
     line-height: 15px;

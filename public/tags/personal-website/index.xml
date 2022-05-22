@@ -14,7 +14,10 @@
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/posts/paring-down-with-amp/</guid>
-      <description>A post about my experience of simplifying my page down to an AMP page.</description>
+      <description>
+This is a post about my experience of simplifying my page down to an AMP page. My philosophy was incremental improvement using the validator and lighthouse test.
+The result is an excellent lighthouse score, fundamentals:
+ Steps TODO:  Size bounding inline CSS  Cutting down Devices.css   Super Tiny Icons Service Worker    </description>
     </item>
     
     <item>

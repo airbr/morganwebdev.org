@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Fri, 11 Jun 2021 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/devices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 May 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/devices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paring down with AMP</title>
+      <link>https://morganwebdev.org/posts/paring-down-with-amp/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/posts/paring-down-with-amp/</guid>
+      <description>A post about my experience of simplifying my page down to an AMP page.</description>
+    </item>
+    
     <item>
       <title>Paring down with Parcel.js</title>
       <link>https://morganwebdev.org/posts/paring-down-with-parcel/</link>

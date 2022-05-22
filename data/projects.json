@@ -8,12 +8,22 @@
     {
       "name":"My personal website",
       "url":"https://morganwebdev.com",
-      "desc":"HTML5 + devices.css + parcel.js + Netlify"
+      "desc":"My personal website: a single AMP page"
     },
     {
       "name":"JavaScript Strings",
       "url":"https://stupefied-bhabha-97831c.netlify.app/",
       "desc":"Modern JS demo; Enter some text and get some stats back"
+    },
+    {
+      "name":"People First Bellingham",
+      "url":"https://peoplefirstbellingham.org",
+      "desc":"Contributor, Helped make this website"
+    },
+    {
+      "name":"Green New Deal for Public Schools",
+      "url":"https://greennewschools.com",
+      "desc":"Contributor, Helped make this website"
     }
   ]
 }

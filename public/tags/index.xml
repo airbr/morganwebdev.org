@@ -7,65 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Thu, 06 Jan 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Academic</title>
-      <link>https://morganwebdev.org/tags/academic/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ACC</title>
-      <link>https://morganwebdev.org/tags/acc/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/acc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerated</title>
-      <link>https://morganwebdev.org/tags/accelerated/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/accelerated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Achievement</title>
-      <link>https://morganwebdev.org/tags/achievement/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/achievement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Action</title>
-      <link>https://morganwebdev.org/tags/action/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>American New Zealander</title>
-      <link>https://morganwebdev.org/tags/american-new-zealander/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/american-new-zealander/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 21 May 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AMP</title>
       <link>https://morganwebdev.org/tags/amp/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/amp/</guid>
       <description></description>
@@ -74,810 +20,72 @@
     <item>
       <title>AMP-HTML</title>
       <link>https://morganwebdev.org/tags/amp-html/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/amp-html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>API</title>
-      <link>https://morganwebdev.org/tags/api/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>ARIA</title>
+      <link>https://morganwebdev.org/tags/aria/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/tags/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apps</title>
-      <link>https://morganwebdev.org/tags/apps/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Architecture</title>
-      <link>https://morganwebdev.org/tags/architecture/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aside</title>
-      <link>https://morganwebdev.org/tags/aside/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/aside/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authors</title>
-      <link>https://morganwebdev.org/tags/authors/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/authors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automation</title>
-      <link>https://morganwebdev.org/tags/automation/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/automation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS</title>
-      <link>https://morganwebdev.org/tags/aws/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash</title>
-      <link>https://morganwebdev.org/tags/bash/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bellingham</title>
-      <link>https://morganwebdev.org/tags/bellingham/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/bellingham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BetterTouchTool</title>
-      <link>https://morganwebdev.org/tags/bettertouchtool/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/bettertouchtool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blogging</title>
-      <link>https://morganwebdev.org/tags/blogging/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/blogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book</title>
-      <link>https://morganwebdev.org/tags/book/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bookmarks</title>
-      <link>https://morganwebdev.org/tags/bookmarks/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/bookmarks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Box Model</title>
-      <link>https://morganwebdev.org/tags/box-model/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/box-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Branch</title>
-      <link>https://morganwebdev.org/tags/branch/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/branch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Breakpoint</title>
-      <link>https://morganwebdev.org/tags/breakpoint/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/breakpoint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chaos</title>
-      <link>https://morganwebdev.org/tags/chaos/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/chaos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Charity</title>
-      <link>https://morganwebdev.org/tags/charity/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/charity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Commission</title>
-      <link>https://morganwebdev.org/tags/commission/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/commission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computers</title>
-      <link>https://morganwebdev.org/tags/computers/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/computers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://morganwebdev.org/tags/configuration/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/configuration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creative</title>
-      <link>https://morganwebdev.org/tags/creative/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/creative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryptography</title>
-      <link>https://morganwebdev.org/tags/cryptography/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/cryptography/</guid>
+      <guid>https://morganwebdev.org/tags/aria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
       <link>https://morganwebdev.org/tags/css/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data</title>
-      <link>https://morganwebdev.org/tags/data/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>Devices</title>
+      <link>https://morganwebdev.org/tags/devices/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Databases</title>
-      <link>https://morganwebdev.org/tags/databases/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/databases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debugging</title>
-      <link>https://morganwebdev.org/tags/debugging/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/debugging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>https://morganwebdev.org/tags/design/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dev.To</title>
-      <link>https://morganwebdev.org/tags/dev.to/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/dev.to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://morganwebdev.org/tags/development/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://morganwebdev.org/tags/docker/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dualism</title>
-      <link>https://morganwebdev.org/tags/dualism/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/dualism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dunedin</title>
-      <link>https://morganwebdev.org/tags/dunedin/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/dunedin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://morganwebdev.org/tags/education/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enrolled Barrister and Solicitor of the High Court of New Zealand</title>
-      <link>https://morganwebdev.org/tags/enrolled-barrister-and-solicitor-of-the-high-court-of-new-zealand/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/enrolled-barrister-and-solicitor-of-the-high-court-of-new-zealand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploration</title>
-      <link>https://morganwebdev.org/tags/exploration/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/exploration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Failsafe</title>
-      <link>https://morganwebdev.org/tags/failsafe/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/failsafe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flexbox</title>
-      <link>https://morganwebdev.org/tags/flexbox/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/flexbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Footer</title>
-      <link>https://morganwebdev.org/tags/footer/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/footer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FPS</title>
-      <link>https://morganwebdev.org/tags/fps/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/fps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functions</title>
-      <link>https://morganwebdev.org/tags/functions/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fyi.txt</title>
-      <link>https://morganwebdev.org/tags/fyi.txt/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/fyi.txt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>https://morganwebdev.org/tags/git/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>https://morganwebdev.org/tags/github/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grid</title>
-      <link>https://morganwebdev.org/tags/grid/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/grid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Header</title>
-      <link>https://morganwebdev.org/tags/header/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/header/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://morganwebdev.org/tags/health/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heraclitus</title>
-      <link>https://morganwebdev.org/tags/heraclitus/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/heraclitus/</guid>
+      <guid>https://morganwebdev.org/tags/devices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
       <link>https://morganwebdev.org/tags/html/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Infrastructure</title>
-      <link>https://morganwebdev.org/tags/infrastructure/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>Personal website</title>
+      <link>https://morganwebdev.org/tags/personal-website/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/tags/infrastructure/</guid>
+      <guid>https://morganwebdev.org/tags/personal-website/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JavaScript</title>
-      <link>https://morganwebdev.org/tags/javascript/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>SVG</title>
+      <link>https://morganwebdev.org/tags/svg/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/tags/javascript/</guid>
+      <guid>https://morganwebdev.org/tags/svg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Law</title>
-      <link>https://morganwebdev.org/tags/law/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>TinyIcons</title>
+      <link>https://morganwebdev.org/tags/tinyicons/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/tags/law/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lighthouse Audit</title>
-      <link>https://morganwebdev.org/tags/lighthouse-audit/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/lighthouse-audit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linkedin</title>
-      <link>https://morganwebdev.org/tags/linkedin/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/linkedin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://morganwebdev.org/tags/linux/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linuxfest</title>
-      <link>https://morganwebdev.org/tags/linuxfest/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/linuxfest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MacOS</title>
-      <link>https://morganwebdev.org/tags/macos/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/macos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Margin</title>
-      <link>https://morganwebdev.org/tags/margin/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/margin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media Queries</title>
-      <link>https://morganwebdev.org/tags/media-queries/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/media-queries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MobileCoin</title>
-      <link>https://morganwebdev.org/tags/mobilecoin/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/mobilecoin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monterrey</title>
-      <link>https://morganwebdev.org/tags/monterrey/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/monterrey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Northwest</title>
-      <link>https://morganwebdev.org/tags/northwest/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/northwest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Padding</title>
-      <link>https://morganwebdev.org/tags/padding/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/padding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance</title>
-      <link>https://morganwebdev.org/tags/performance/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pinboard</title>
-      <link>https://morganwebdev.org/tags/pinboard/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/pinboard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PNW</title>
-      <link>https://morganwebdev.org/tags/pnw/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/pnw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Print</title>
-      <link>https://morganwebdev.org/tags/print/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/print/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>https://morganwebdev.org/tags/privacy/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PWA</title>
-      <link>https://morganwebdev.org/tags/pwa/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/pwa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive</title>
-      <link>https://morganwebdev.org/tags/responsive/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST</title>
-      <link>https://morganwebdev.org/tags/rest/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/rest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Screen</title>
-      <link>https://morganwebdev.org/tags/screen/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/screen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Divs</title>
-      <link>https://morganwebdev.org/tags/semantic-divs/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/semantic-divs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SemVer</title>
-      <link>https://morganwebdev.org/tags/semver/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/semver/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SEO</title>
-      <link>https://morganwebdev.org/tags/seo/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shell</title>
-      <link>https://morganwebdev.org/tags/shell/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Signal</title>
-      <link>https://morganwebdev.org/tags/signal/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/signal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sizebound CSS</title>
-      <link>https://morganwebdev.org/tags/sizebound-css/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/sizebound-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://morganwebdev.org/tags/sql/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stack Overflow</title>
-      <link>https://morganwebdev.org/tags/stack-overflow/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/stack-overflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tachyons</title>
-      <link>https://morganwebdev.org/tags/tachyons/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/tachyons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Terminal</title>
-      <link>https://morganwebdev.org/tags/terminal/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/terminal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unix</title>
-      <link>https://morganwebdev.org/tags/unix/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/unix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utility Classes</title>
-      <link>https://morganwebdev.org/tags/utility-classes/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/utility-classes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UX</title>
-      <link>https://morganwebdev.org/tags/ux/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/ux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variables</title>
-      <link>https://morganwebdev.org/tags/variables/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/variables/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Z-Index</title>
-      <link>https://morganwebdev.org/tags/z-index/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/z-index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zines</title>
-      <link>https://morganwebdev.org/tags/zines/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/zines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ARIA</title>
-      <link>https://morganwebdev.org/tags/aria/</link>
-      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/aria/</guid>
+      <guid>https://morganwebdev.org/tags/tinyicons/</guid>
       <description></description>
     </item>
     
@@ -891,47 +99,11 @@
     </item>
     
     <item>
-      <title>Devices</title>
-      <link>https://morganwebdev.org/tags/devices/</link>
-      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/devices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>parcel.js</title>
       <link>https://morganwebdev.org/tags/parcel.js/</link>
       <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/parcel.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal website</title>
-      <link>https://morganwebdev.org/tags/personal-website/</link>
-      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/personal-website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SVG</title>
-      <link>https://morganwebdev.org/tags/svg/</link>
-      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/svg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TinyIcons</title>
-      <link>https://morganwebdev.org/tags/tinyicons/</link>
-      <pubDate>Fri, 11 Jun 2021 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/tinyicons/</guid>
       <description></description>
     </item>
     
@@ -950,6 +122,15 @@
       <pubDate>Fri, 12 Feb 2021 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://morganwebdev.org/tags/github/</link>
+      <pubDate>Fri, 12 Feb 2021 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/github/</guid>
       <description></description>
     </item>
     

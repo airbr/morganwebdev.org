@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Thu, 06 Jan 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 May 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This blog post is an SEO experiment</title>
-      <link>https://morganwebdev.org/posts/seo-experiment/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>Paring down with AMP</title>
+      <link>https://morganwebdev.org/posts/paring-down-with-amp/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/posts/seo-experiment/</guid>
-      <description>There is a concept in SEO that link farms are bad. But what about Tags from a static site generator? I am adding a bunch of Tags to this post and seeing how it affects the site, If you found your way here from a tag, I welcome you. These tags were mostly taken from my public pinboard account </description>
+      <guid>https://morganwebdev.org/posts/paring-down-with-amp/</guid>
+      <description>A post about my experience of simplifying my page down to an AMP page.</description>
     </item>
     
     <item>

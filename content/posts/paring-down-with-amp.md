@@ -22,7 +22,7 @@ The result is an excellent lighthouse score and a pretty excellent WebPageTest s
 
 ![](https://github.com/airbr/newpersonal/raw/master/readme-assets/lighthouse-2022.png)
 
-![](/static/CWV.png)
+![](/CWV.png)
 
 I followed a number of steps to achieve this namely size bounding and inlining CSS and using the excellent  [Super Tiny Icons Repository](https://github.com/edent/SuperTinyIcons)
 

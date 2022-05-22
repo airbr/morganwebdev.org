@@ -8,12 +8,12 @@
     {
       "name":"My personal website",
       "url":"https://morganwebdev.com",
-      "desc":"My personal website: a single AMP page deployed with Netlify"
+      "desc":"My personal website: a single AMP deployed with Netlify"
     },
     {
       "name":"airbridge.ac.nz",
       "url":"https://airbridge.ac.nz",
-      "desc":"a little AMP project- meant to help cheer up someones day! Practical demonstration of mobile first lightbox content"
+      "desc":"a little AMP project meant to help cheer up someones day!"
     },
     {
       "name":"JavaScript Strings",
@@ -29,6 +29,16 @@
       "name":"Green New Deal for Public Schools",
       "url":"https://greennewschools.com",
       "desc":"Website Architect"
+    },
+    {
+      "name":"PHP Redis twitter clone",
+      "url":"https://github.com/airbr/messageplatform",
+      "desc":"Hobby side project to learn some Redis"
+    },
+    {
+      "name":"New years eve animation demo",
+      "url":"https://nye-fireworks.netlify.app/",
+      "desc":"Netlify forms demo + beautiful animation on type"
     }
   ]
 }

@@ -9,9 +9,7 @@ When I returned to the USA in 2016 I considered for a while trying to practice l
 
 I worked at the start-up EasyRx based out of Atlanta, GA for 4+ years focusing on the web for that company. Since December 2021, I have worked at WompMobile focusing on the web also.
 
-I enjoy art, reading and a little bit of dark European/[New Zealand](https://www.nomdstore.com/us/) style fashion particularly from Dunedin. I wear a lot of black and drink a lot of coffee.
-
-My development philosophy influenced by continuous improvement. At the very least I see a need for continuous improvement in everything I do!
+I enjoy art, reading and a little bit of dark European/[New Zealand](https://www.nomdstore.com/us/) style fashion particularly from Dunedin. I wear a lot of black and drink a lot of coffee. My development philosophy is influenced by [continuous improvement](https://en.wikipedia.org/wiki/Kaizen).
 
 ---
 

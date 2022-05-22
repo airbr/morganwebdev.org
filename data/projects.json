@@ -11,6 +11,11 @@
       "desc":"My personal website: a single AMP page"
     },
     {
+      "name":"airbridge.ac.nz",
+      "url":"https://airbridge.ac.nz",
+      "desc":"A fun AMP page project- meant to help cheer up someones day! Practical demonstration of mobile first lightbox content"
+    },
+    {
       "name":"JavaScript Strings",
       "url":"https://stupefied-bhabha-97831c.netlify.app/",
       "desc":"Modern JS demo; Enter some text and get some stats back"

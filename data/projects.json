@@ -13,22 +13,22 @@
     {
       "name":"airbridge.ac.nz",
       "url":"https://airbridge.ac.nz",
-      "desc":"A fun AMP page project- meant to help cheer up someones day! Practical demonstration of mobile first lightbox content"
+      "desc":"a little AMP project- meant to help cheer up someones day! Practical demonstration of mobile first lightbox content"
     },
     {
       "name":"JavaScript Strings",
       "url":"https://stupefied-bhabha-97831c.netlify.app/",
-      "desc":"Modern JS demo; Enter some text and get some stats back"
+      "desc":"Modern JavaScript demonstration; Enter some text and get some stats back"
     },
     {
       "name":"People First Bellingham",
       "url":"https://peoplefirstbellingham.org",
-      "desc":"Website Contributor, Helped make this website"
+      "desc":"Website Contributor"
     },
     {
       "name":"Green New Deal for Public Schools",
       "url":"https://greennewschools.com",
-      "desc":"Website Architect, Helped make this website from the first commit on Github"
+      "desc":"Website Architect"
     }
   ]
 }

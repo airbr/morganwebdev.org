@@ -11,7 +11,7 @@ I worked at the start-up EasyRx based out of Atlanta, GA for 4+ years focusing o
 
 I enjoy art, reading and a little bit of dark European/[New Zealand](https://www.nomdstore.com/us/) style fashion particularly from Dunedin. I wear a lot of black and drink a lot of coffee.
 
-My development experience is 
+My development philosophy influenced by continuous improvement. At the very least I see a need for continuous improvement in everything I do!
 
 ---
 

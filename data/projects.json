@@ -3,12 +3,12 @@
     {
       "name":"This blog",
       "url":"https://github.com/airbr/morganwebdev.org",
-      "desc":"Repo for this site"
+      "desc":"Github Repository for this site"
     },
     {
       "name":"My personal website",
       "url":"https://morganwebdev.com",
-      "desc":"My personal website: a single AMP page"
+      "desc":"My personal website: a single AMP page deployed with Netlify"
     },
     {
       "name":"airbridge.ac.nz",
@@ -28,7 +28,7 @@
     {
       "name":"Green New Deal for Public Schools",
       "url":"https://greennewschools.com",
-      "desc":"Website Architecht, Helped make this website"
+      "desc":"Website Architect, Helped make this website from the first commit on Github"
     }
   ]
 }

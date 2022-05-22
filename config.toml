@@ -43,7 +43,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "My name is Morgan Murrah. I am a developer working remotely from Bellingham, Washington State, USA."
+  description = "My name is Morgan Murrah. I am a developer focused on the web working remotely from Bellingham, Washington State, USA."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = true # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true

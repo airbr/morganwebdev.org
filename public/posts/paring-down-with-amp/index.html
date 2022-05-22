@@ -4,15 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> Paring down with AMP | morganwebdev&#39;s blog</title>
-  <meta name="description" content="My name is Morgan Murrah. I am a developer working remotely from Bellingham, Washington State, USA.">
+  <meta name="description" content="My name is Morgan Murrah. I am a developer focused on the web working remotely from Bellingham, Washington State, USA.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta property="og:title" content="Paring down with AMP" />
-<meta property="og:description" content="
-This is a post about my experience of simplifying my page down to an AMP page. My philosophy was incremental improvement using the validator and lighthouse test.
-The result is an excellent lighthouse score, fundamentals:
- Steps TODO:  Size bounding inline CSS  Cutting down Devices.css   Super Tiny Icons Service Worker    " />
+<meta property="og:description" content="This is a post about my experience of simplifying my personal website down to an AMP page. My philosophy was incremental improvement using the validator and lighthouse test audits. Additionally I added basic service worker functionality with the amp-install-serviceworker tag.
+The result is an excellent lighthouse score and a pretty excellent WebPageTest score on Core Web Vitals:
+I followed a number of steps to achieve this namely size bounding and inlining CSS and using the excellent Super Tiny Icons Repository" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://morganwebdev.org/posts/paring-down-with-amp/" />
 <meta property="article:published_time" content="2022-05-21T12:00:00-08:00" />
@@ -20,10 +19,9 @@ The result is an excellent lighthouse score, fundamentals:
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Paring down with AMP"/>
-<meta name="twitter:description" content="
-This is a post about my experience of simplifying my page down to an AMP page. My philosophy was incremental improvement using the validator and lighthouse test.
-The result is an excellent lighthouse score, fundamentals:
- Steps TODO:  Size bounding inline CSS  Cutting down Devices.css   Super Tiny Icons Service Worker    "/>
+<meta name="twitter:description" content="This is a post about my experience of simplifying my personal website down to an AMP page. My philosophy was incremental improvement using the validator and lighthouse test audits. Additionally I added basic service worker functionality with the amp-install-serviceworker tag.
+The result is an excellent lighthouse score and a pretty excellent WebPageTest score on Core Web Vitals:
+I followed a number of steps to achieve this namely size bounding and inlining CSS and using the excellent Super Tiny Icons Repository"/>
 
   
   
@@ -192,7 +190,7 @@ The result is an excellent lighthouse score, fundamentals:
             <a class="tag-link" href="/tags/amp" rel="tag">AMP</a>
             
              ,  
-            <a class="tag-link" href="/tags/amp-html" rel="tag">AMP-HTML</a>
+            <a class="tag-link" href="/tags/amphtml" rel="tag">AMPHTML</a>
             
              ,  
             <a class="tag-link" href="/tags/personal-website" rel="tag">Personal website</a>
@@ -210,10 +208,13 @@ The result is an excellent lighthouse score, fundamentals:
             <a class="tag-link" href="/tags/tinyicons" rel="tag">TinyIcons</a>
             
              ,  
-            <a class="tag-link" href="/tags/validator" rel="tag">Validator</a>
+            <a class="tag-link" href="/tags/amp-validator" rel="tag">AMP Validator</a>
             
              ,  
             <a class="tag-link" href="/tags/lighthouse" rel="tag">Lighthouse</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/webpagetest" rel="tag">WebPageTest</a>
             
         </div>
         
@@ -223,22 +224,11 @@ The result is an excellent lighthouse score, fundamentals:
   
     <div class="content" itemprop="articleBody">
       <p><a href="https://app.netlify.com/sites/sharp-kilby-16c20a/deploys"><img src="https://api.netlify.com/api/v1/badges/ed41d932-636f-4c3a-849a-adaaf6498e71/deploy-status" alt="Netlify Status"></a></p>
-<p>This is a post about my experience of simplifying my page down to an AMP page. My philosophy was incremental improvement using the <a href="https://validator.ampproject.org/">validator</a> and <a href="https://developers.google.com/web/tools/lighthouse">lighthouse</a> test.</p>
-<p>The result is an excellent lighthouse score, fundamentals:</p>
+<p>This is a post about my experience of simplifying my personal website down to an AMP page. My philosophy was incremental improvement using the <a href="https://validator.ampproject.org/">validator</a> and <a href="https://developers.google.com/web/tools/lighthouse">lighthouse</a> test audits. Additionally I added basic service worker functionality with the <code>amp-install-serviceworker</code> tag.</p>
+<p>The result is an excellent lighthouse score and a pretty excellent WebPageTest score on Core Web Vitals:</p>
 <p><img src="https://github.com/airbr/newpersonal/raw/master/readme-assets/lighthouse-2022.png" alt=""></p>
-<ul>
-<li>Steps TODO:
-<ul>
-<li>Size bounding inline CSS
-<ul>
-<li>Cutting down Devices.css</li>
-</ul>
-</li>
-<li>Super Tiny Icons</li>
-<li>Service Worker</li>
-</ul>
-</li>
-</ul>
+<p><img src="/static/CWV.png" alt=""></p>
+<p>I followed a number of steps to achieve this namely size bounding and inlining CSS and using the excellent  <a href="https://github.com/edent/SuperTinyIcons">Super Tiny Icons Repository</a></p>
 
     </div>
   </article>

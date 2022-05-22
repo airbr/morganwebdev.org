@@ -14,10 +14,9 @@
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/posts/paring-down-with-amp/</guid>
-      <description>
-This is a post about my experience of simplifying my page down to an AMP page. My philosophy was incremental improvement using the validator and lighthouse test.
-The result is an excellent lighthouse score, fundamentals:
- Steps TODO:  Size bounding inline CSS  Cutting down Devices.css   Super Tiny Icons Service Worker    </description>
+      <description>This is a post about my experience of simplifying my personal website down to an AMP page. My philosophy was incremental improvement using the validator and lighthouse test audits. Additionally I added basic service worker functionality with the amp-install-serviceworker tag.
+The result is an excellent lighthouse score and a pretty excellent WebPageTest score on Core Web Vitals:
+I followed a number of steps to achieve this namely size bounding and inlining CSS and using the excellent Super Tiny Icons Repository</description>
     </item>
     
   </channel>

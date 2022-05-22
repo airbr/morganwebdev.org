@@ -8,7 +8,12 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/tags/amp-html/</loc>
+    <loc>https://morganwebdev.org/tags/amp-validator/</loc>
+    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/amphtml/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   
@@ -63,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/tags/validator/</loc>
+    <loc>https://morganwebdev.org/tags/webpagetest/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   

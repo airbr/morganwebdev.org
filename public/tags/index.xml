@@ -18,11 +18,20 @@
     </item>
     
     <item>
-      <title>AMP-HTML</title>
-      <link>https://morganwebdev.org/tags/amp-html/</link>
+      <title>AMP Validator</title>
+      <link>https://morganwebdev.org/tags/amp-validator/</link>
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/tags/amp-html/</guid>
+      <guid>https://morganwebdev.org/tags/amp-validator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMPHTML</title>
+      <link>https://morganwebdev.org/tags/amphtml/</link>
+      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/amphtml/</guid>
       <description></description>
     </item>
     
@@ -81,11 +90,11 @@
     </item>
     
     <item>
-      <title>Validator</title>
-      <link>https://morganwebdev.org/tags/validator/</link>
+      <title>WebPageTest</title>
+      <link>https://morganwebdev.org/tags/webpagetest/</link>
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/tags/validator/</guid>
+      <guid>https://morganwebdev.org/tags/webpagetest/</guid>
       <description></description>
     </item>
     

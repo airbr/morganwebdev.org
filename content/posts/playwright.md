@@ -28,7 +28,7 @@ I am _enamored_ with [Playwright](https://playwright.dev/). End to end integrati
 ### Background
 I worked at implementing a E2E suite with Playwright for a Fortune 500 company. This was intended as a supplement to the core testing regime and not to replace an experienced QA/QC department. In my role I was primarily a fast follower. I introduced some concepts but it was mostly following behind the masterful work of a coworker who really brought a lot of velocity to the project. 
 
-The focus of the testing was roughly a kind of 80/20 rule. We focused on the 20% of features that were most critical and important to 80%+ of the sites functionality. The goal was to optimize the tests for the "happy path": the path that users were most likely to take when making a purchase such as landing on the homepage, entering a search term, clicking on a product. The tests were intended to be run as [SMOKE tests](https://en.wikipedia.org/wiki/Smoke_testing_(software)) before deployments and during increasingly test driven development. 
+The focus of the testing was roughly a kind of 80/20 rule. We focused on the 20% of features that were most critical and important to 80%+ of the sites functionality. The goal was to optimize the tests for the "happy path": the path that users were most likely to take when making a purchase such as landing on the homepage, entering a search term, clicking on a product. The tests were intended to be run as [smoke tests](https://en.wikipedia.org/wiki/Smoke_testing_(software)) before deployments and during increasingly test driven development. 
 
 Since gaining this initial experience I have in my spare time added some really basic E2E tests to my personal website that runs everytime I push commits on that repo to GitHub via Github Actions- [Recent Example run](https://github.com/airbr/newpersonal/runs/6840538620?check_suite_focus=true). I have also introduced Playwright testing to a non-profit I volunteer for. It has been great all around. 
 
@@ -50,7 +50,7 @@ test('github link works', async ({ page }) => {
 });
 ```
 
-To me, this test just reads like what I want it to. "Go to my website, locate a github URL, expect it there to be 1 of them, click it, check for my name...". Auto awaiting makes all this feel simple and clean. Things get so much more complex than this but this fundamental feature baked into the library makes things so much more approachable.
+To me, this test just reads like what I want it to. "Go to my website, locate a github URL, expect it there to be 1 of them, click it, check for my name...". Auto-waiting makes all this feel simple and clean rather than needing to sprinkle in things to check for visibility or even gasp... timeouts. Things get so much more complex than this but this fundamental feature baked into the library makes things so much more approachable.
 
 * [Minimalist feeling installation](https://playwright.dev/docs/intro)
     1.   Do the usual `npx install`...

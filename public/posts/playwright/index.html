@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Playwright: My intro | morganwebdev&#39;s blog</title>
+  <meta name="description" content="My name is Morgan Murrah. I am a developer focused on the web working remotely from Bellingham, Washington State, USA">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta property="og:title" content="Playwright: My intro" />
+<meta property="og:description" content="I am enamored with Playwright. End to end integration testing is a huge topic but I can tell you just a few things about my experience from helping to integrate JavaScript E2E tests at work and in my spare time projects:
+First, I have to say I am sure I would have been enamored with experiencing the joy and utility of E2E testing with other frameworks as well including Cypress or TestCafe but Playwright is my first." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://morganwebdev.org/posts/playwright/" />
+<meta property="article:published_time" content="2022-08-13T12:00:00-08:00" />
+<meta property="article:modified_time" content="2022-08-13T12:00:00-08:00" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Playwright: My intro"/>
+<meta name="twitter:description" content="I am enamored with Playwright. End to end integration testing is a huge topic but I can tell you just a few things about my experience from helping to integrate JavaScript E2E tests at work and in my spare time projects:
+First, I have to say I am sure I would have been enamored with experiencing the joy and utility of E2E testing with other frameworks as well including Cypress or TestCafe but Playwright is my first."/>
+
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://morganwebdev.org/css/style-white.css">
+  
+  
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://morganwebdev.org/images/favicon.ico" />
+
+  
+  
+  
+  
+
+  <link
+  rel="stylesheet"
+  type="text/css"
+  href="https://cdn.ampproject.org/v0/bento-lightbox-1.0.css"
+/>
+<script src="https://cdn.ampproject.org/bento.js"></script>
+<script
+  async
+  src="https://cdn.ampproject.org/v0/bento-lightbox-1.0.js"
+></script>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+      'Segoe UI Symbol';
+    margin: 2rem;
+  }
+  button {
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    color: #269da3;
+    background: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 1rem;
+  }
+  .lightbox-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #269da3;
+    height: 100%;
+    flex-direction: column;
+  }
+</style>
+</head>
+
+<body class="max-width mx-auto px3 ltr">
+
+  <div style="padding-top: 20px;">
+  <header id="header">
+  <a href="https://morganwebdev.org">
+  
+    <div id="logo" style="background-image: url(https://morganwebdev.org/images/logo.png)"></div>
+  
+  <div id="title">
+    <h1>morganwebdev&#39;s blog</h1>
+  </div>
+  </a>
+  <div id="nav">
+    <ul>
+      <li class="icon">
+        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+      </li>
+      
+        <li><a href="/">Home</a></li>
+      
+        <li><a href="/posts">Writings</a></li>
+      
+        <li><a href="/tags">Tags</a></li>
+      
+        <li><a href="/about">About</a></li>
+      
+    </ul>
+  </div>
+</header>
+
+
+  </div>
+
+  <div class="content index py4">
+
+  <div id="header-post">
+  <a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <span id="menu">
+    <span id="nav">
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/posts">Writings</a></li>
+         
+        <li><a href="/tags">Tags</a></li>
+         
+        <li><a href="/about">About</a></li>
+        
+      </ul>
+    </span>
+    <br/>
+    <span id="actions">
+      <ul>
+        
+        <li>
+          <a class="icon" href=" https://morganwebdev.org/posts/paring-down-with-amp/">
+            <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+            <i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i>
+          </a>
+        </li>
+        <li>
+          
+        </li>
+      </ul>
+      <span id="i-prev" class="info" style="display:none;">Previous post</span>
+      <span id="i-next" class="info" style="display:none;">Next post</span>
+      <span id="i-top" class="info" style="display:none;">Back to top</span>
+      <span id="i-share" class="info" style="display:none;">Share post</span>
+    </span>
+    <br/>
+    
+    
+  </span>
+</div>
+
+
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 class="posttitle" itemprop="name headline">
+        Playwright: My intro
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2022-08-13 12:00:00 -0800 -0800" itemprop="datePublished">2022-08-13</time>
+          
+        </div>
+        
+        
+        <div class="article-tag">
+            <i class="fas fa-tag"></i>
+            
+            
+            <a class="tag-link" href="/tags/playwright" rel="tag">Playwright</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/e2e" rel="tag">E2E</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/testing" rel="tag">Testing</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/browsers" rel="tag">Browsers</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/headless" rel="tag">Headless</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/codegen" rel="tag">Codegen</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/html" rel="tag">HTML</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/javascript" rel="tag">JavaScript</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/github" rel="tag">Github</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/ci" rel="tag">CI</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/cd" rel="tag">CD</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/docker" rel="tag">Docker</a>
+            
+        </div>
+        
+      </div>
+    </header>
+
+  
+    <div class="content" itemprop="articleBody">
+      <p>I am <em>enamored</em> with <a href="https://playwright.dev/">Playwright</a>. End to end integration testing is a huge topic but I can tell you just a few things about my experience from helping to integrate JavaScript E2E tests at work and in my spare time projects:</p>
+<p><img src="/playwright-logo.svg" alt=""></p>
+<p>First, I have to say I am sure I would have been enamored with experiencing the joy and utility of <a href="https://www.contentstack.com/blog/tech-talk/what-you-need-to-know-about-e2e-testing-with-playwright/">E2E</a> testing with other frameworks as well including <a href="https://www.cypress.io/">Cypress</a> or <a href="https://testcafe.io/">TestCafe</a> but Playwright is my first.</p>
+<p>Getting into E2E is like opening a huge new world, a sub-world within development. There is a lot of competition to be the best framework and everyone wins by this dynamic, there are even brawling battle like events such as <a href="https://applitools.com/cypress-vs-playwright-rematch-webinar/">this one from Applitools where Playwright and Cypress face off against each other</a>. There are lots of blogs and article that say one is better than the other - <a href="https://alisterbscott.com/2021/10/27/five-reasons-why-playwright-is-better-than-cypress/">like this example from 2021</a>- but this blog is mostly just my enamorment with Playwright as my first library of this kind.</p>
+<h3 id="background">Background</h3>
+<p>I worked at implementing a E2E suite with Playwright for a Fortune 500 company. This was intended as a supplement to the core testing regime and not to replace an experienced QA/QC department. In my role I was primarily a fast follower. I introduced some concepts but it was mostly following behind the masterful work of a coworker who really brought a lot of velocity to the project.</p>
+<p>The focus of the testing was roughly a kind of 80/20 rule. We focused on the 20% of features that were most critical and important to 80%+ of the sites functionality. The goal was to optimize the tests for the &ldquo;happy path&rdquo;: the path that users were most likely to take when making a purchase such as landing on the homepage, entering a search term, clicking on a product. The tests were intended to be run as <a href="https://en.wikipedia.org/wiki/Smoke_testing_(software)">SMOKE tests</a> before deployments and during increasingly test driven development.</p>
+<p>Since gaining this initial experience I have in my spare time added some really basic E2E tests to my personal website that runs everytime I push commits on that repo to GitHub via Github Actions- <a href="https://github.com/airbr/newpersonal/runs/6840538620?check_suite_focus=true">Recent Example run</a>. I have also introduced Playwright testing to a non-profit I volunteer for. It has been great all around.</p>
+<h3 id="a-couple-of-observations">A couple of observations</h3>
+<ul>
+<li>Async/Await and <a href="https://playwright.dev/docs/actionability">Auto-waiting</a> = tests that read like what you are trying to do</li>
+</ul>
+<p>Check out this basic example from my website:</p>
+<pre><code>test('github link works', async ({ page }) =&gt; {
+  await page.goto('https://morganwebdev.com');
+  const github = page.locator(&quot;a[href='https://github.com/airbr']&quot;);
+  await expect(github).toHaveCount(1);
+  await github.click();
+  const name = page.locator(&quot;.vcard-fullname&quot;);
+  await expect(name).toHaveCount(1);
+  await expect(name).toHaveText('Morgan Murrah');
+});
+</code></pre><p>To me, this test just reads like what I want it to. &ldquo;Go to my website, locate a github URL, expect it there to be 1 of them, click it, check for my name&hellip;&rdquo;. Auto awaiting makes all this feel simple and clean. Things get so much more complex than this but this fundamental feature baked into the library makes things so much more approachable.</p>
+<ul>
+<li>
+<p><a href="https://playwright.dev/docs/intro">Minimalist feeling installation</a></p>
+<ol>
+<li>Do the usual <code>npx install</code>&hellip;</li>
+<li>Install browsers? if not already installed</li>
+<li>Then run the test. From anywhere. <a href="https://playwright.dev/docs/docker">Docker Container</a>? Local? On a spare machine? On the cloud somewhere? So many options!</li>
+</ol>
+</li>
+<li>
+<p>People get REALLY into configuration. It is possible to run a huge battery of tests across different devices with minimal config too.</p>
+<p>I could just link a bunch of resources but basically, Playwright allows for an incredible amount of configuration. The complexities of E2E testing comes from things like handling multiple auth states and special environmental things. Playwright seems to be handling these well by all indications I can see- I don&rsquo;t read of any burning complaints in this area.</p>
+<p>It is really neat how you can with a <a href="https://github.com/microsoft/playwright/blob/main/packages/playwright-core/src/server/deviceDescriptorsSource.json">few lines of config set up many mobile and desktop devices</a>:</p>
+<p><img src="/tests.png" alt=""></p>
+</li>
+<li>
+<p>The Community seems vibrant</p>
+<p>The <a href="https://aka.ms/playwright-slack">Slack community for Playwright</a> gives me hope that it will be a long lived software project. There is a vibrancy to the questions asked and people hopping in saying they have switched to Playwright. There may not be as many Stack Overflow questions as for Cypress&hellip; but hey, thats just one metric.</p>
+</li>
+<li>
+<p>The Tooling inspires confidence</p>
+<p>Playwright comes out of the box with an <a href="https://playwright.dev/docs/test-reporters#html-reporter">HTML Report feature</a>. Its just one feature that makes the experience feel nice- especially if you expect other people to be interacting with the tests that may not be as directly technical. There are other features such as code generation that helps a lot.</p>
+</li>
+</ul>
+<p>Mainly I am just excited to have made headway into the world of E2E testing and for the moment Playwright has me enamored.</p>
+<p>I intend to write further posts on this topic.</p>
+
+    </div>
+  </article>
+
+  
+  
+
+
+
+
+
+  <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/posts">Writings</a></li>
+         
+          <li><a href="/tags">Tags</a></li>
+         
+          <li><a href="/about">About</a></li>
+        
+      </ul>
+    </div>
+
+    
+
+    
+
+    <div id="actions-footer">
+      
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;">
+          <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        
+        
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+          <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
+
+  </div>
+</div>
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2022  Morgan Murrah 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/posts">Writings</a></li>
+         
+        <li><a href="/tags">Tags</a></li>
+         
+        <li><a href="/about">About</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+</body>
+
+<link rel="stylesheet" href=/lib/font-awesome/css/all.min.css>
+<script src=/lib/jquery/jquery.min.js></script>
+<script src=/js/main.js></script>
+
+
+
+</html>

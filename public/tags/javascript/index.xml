@@ -7,14 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Thu, 06 Jan 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This blog post is an SEO experiment</title>
-      <link>https://morganwebdev.org/posts/seo-experiment/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>Playwright: My intro</title>
+      <link>https://morganwebdev.org/posts/playwright/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/posts/seo-experiment/</guid>
-      <description>There is a concept in SEO that link farms are bad. But what about Tags from a static site generator? I am adding a bunch of Tags to this post and seeing how it affects the site, If you found your way here from a tag, I welcome you. These tags were mostly taken from my public pinboard account </description>
+      <guid>https://morganwebdev.org/posts/playwright/</guid>
+      <description>I am enamored with Playwright. End to end integration testing is a huge topic but I can tell you just a few things about my experience from helping to integrate JavaScript E2E tests at work and in my spare time projects:
+First, I have to say I am sure I would have been enamored with experiencing the joy and utility of E2E testing with other frameworks as well including Cypress or TestCafe but Playwright is my first.</description>
     </item>
     
   </channel>

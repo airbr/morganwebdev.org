@@ -3,6 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://morganwebdev.org/tags/browsers/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/cd/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/ci/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/codegen/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/docker/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/e2e/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/github/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/headless/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/html/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/javascript/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/playwright/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/playwright/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/testing/</loc>
+    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/tags/amp/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
@@ -23,17 +103,7 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/tags/html/</loc>
-    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://morganwebdev.org/tags/lighthouse/</loc>
-    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   
@@ -48,17 +118,7 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/posts/</loc>
-    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://morganwebdev.org/tags/svg/</loc>
-    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   
@@ -104,11 +164,6 @@
   
   <url>
     <loc>https://morganwebdev.org/tags/code/</loc>
-    <lastmod>2021-02-12T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/github/</loc>
     <lastmod>2021-02-12T12:00:00-08:00</lastmod>
   </url>
   

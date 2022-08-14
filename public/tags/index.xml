@@ -7,7 +7,115 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Sat, 21 May 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Browsers</title>
+      <link>https://morganwebdev.org/tags/browsers/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/browsers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CD</title>
+      <link>https://morganwebdev.org/tags/cd/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI</title>
+      <link>https://morganwebdev.org/tags/ci/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codegen</title>
+      <link>https://morganwebdev.org/tags/codegen/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/codegen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://morganwebdev.org/tags/docker/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E2E</title>
+      <link>https://morganwebdev.org/tags/e2e/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/e2e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://morganwebdev.org/tags/github/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Headless</title>
+      <link>https://morganwebdev.org/tags/headless/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/headless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://morganwebdev.org/tags/html/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://morganwebdev.org/tags/javascript/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Playwright</title>
+      <link>https://morganwebdev.org/tags/playwright/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/playwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://morganwebdev.org/tags/testing/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/testing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AMP</title>
       <link>https://morganwebdev.org/tags/amp/</link>
@@ -41,15 +149,6 @@
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://morganwebdev.org/tags/html/</link>
-      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/html/</guid>
       <description></description>
     </item>
     
@@ -149,15 +248,6 @@
       <pubDate>Fri, 12 Feb 2021 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>https://morganwebdev.org/tags/github/</link>
-      <pubDate>Fri, 12 Feb 2021 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/github/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Sat, 21 May 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playwright: My intro</title>
+      <link>https://morganwebdev.org/posts/playwright/</link>
+      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/posts/playwright/</guid>
+      <description>I am enamored with Playwright. End to end integration testing is a huge topic but I can tell you just a few things about my experience from helping to integrate JavaScript E2E tests at work and in my spare time projects:
+First, I have to say I am sure I would have been enamored with experiencing the joy and utility of E2E testing with other frameworks as well including Cypress or TestCafe but Playwright is my first.</description>
+    </item>
+    
     <item>
       <title>Paring down with AMP</title>
       <link>https://morganwebdev.org/posts/paring-down-with-amp/</link>

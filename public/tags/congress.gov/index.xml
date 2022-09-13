@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>API on morganwebdev&#39;s blog</title>
-    <link>https://morganwebdev.org/tags/api/</link>
-    <description>Recent content in API on morganwebdev&#39;s blog</description>
+    <title>Congress.gov on morganwebdev&#39;s blog</title>
+    <link>https://morganwebdev.org/tags/congress.gov/</link>
+    <description>Recent content in Congress.gov on morganwebdev&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/congress.gov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experiments with Congress.gov API</title>
       <link>https://morganwebdev.org/posts/congress-api/</link>

@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://morganwebdev.org/tags/api/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/bills/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/congress/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/congress.gov/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/congress.gov-api/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/congress-api/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/gov/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/</loc>
+    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/tags/browsers/</loc>
     <lastmod>2022-08-13T12:00:00-08:00</lastmod>
   </url>
@@ -53,27 +103,12 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/</loc>
-    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://morganwebdev.org/tags/playwright/</loc>
     <lastmod>2022-08-13T12:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://morganwebdev.org/posts/playwright/</loc>
-    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/posts/</loc>
-    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/</loc>
     <lastmod>2022-08-13T12:00:00-08:00</lastmod>
   </url>
   

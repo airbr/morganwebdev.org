@@ -6,7 +6,6 @@ copyright = "Morgan Murrah" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
-
 # summaryLength = 2
 
 # Main menu which appears below site header.
@@ -35,6 +34,9 @@ weight = 4
     endLevel = 4
     ordered = false
     startLevel = 2
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   # dark, light, white, or classic

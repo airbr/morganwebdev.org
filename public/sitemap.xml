@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://morganwebdev.org/tags/eloquent-javascript/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/javascript/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/javascript-garden/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/learn-x-in-y-minutes/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/react/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/retooling/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/sass/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/typescript/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/tags/api/</loc>
     <lastmod>2022-09-11T12:00:00-08:00</lastmod>
   </url>
@@ -34,21 +89,6 @@
   
   <url>
     <loc>https://morganwebdev.org/tags/gov/</loc>
-    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/</loc>
-    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/posts/</loc>
-    <lastmod>2022-09-11T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/</loc>
     <lastmod>2022-09-11T12:00:00-08:00</lastmod>
   </url>
   
@@ -94,11 +134,6 @@
   
   <url>
     <loc>https://morganwebdev.org/tags/html/</loc>
-    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/javascript/</loc>
     <lastmod>2022-08-13T12:00:00-08:00</lastmod>
   </url>
   

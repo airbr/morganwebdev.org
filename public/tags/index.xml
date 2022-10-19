@@ -7,7 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eloquent JavaScript</title>
+      <link>https://morganwebdev.org/tags/eloquent-javascript/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/eloquent-javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://morganwebdev.org/tags/javascript/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript Garden</title>
+      <link>https://morganwebdev.org/tags/javascript-garden/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/javascript-garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn X in Y Minutes</title>
+      <link>https://morganwebdev.org/tags/learn-x-in-y-minutes/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/learn-x-in-y-minutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://morganwebdev.org/tags/react/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SASS</title>
+      <link>https://morganwebdev.org/tags/sass/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TypeScript</title>
+      <link>https://morganwebdev.org/tags/typescript/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>API</title>
       <link>https://morganwebdev.org/tags/api/</link>
@@ -140,15 +203,6 @@
       <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://morganwebdev.org/tags/javascript/</link>
-      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/javascript/</guid>
       <description></description>
     </item>
     

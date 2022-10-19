@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JavaScript on morganwebdev&#39;s blog</title>
-    <link>https://morganwebdev.org/tags/javascript/</link>
-    <description>Recent content in JavaScript on morganwebdev&#39;s blog</description>
+    <title>React on morganwebdev&#39;s blog</title>
+    <link>https://morganwebdev.org/tags/react/</link>
+    <description>Recent content in React on morganwebdev&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Mon, 17 Oct 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retooling</title>
       <link>https://morganwebdev.org/posts/retooling/</link>
@@ -16,16 +16,6 @@
       <guid>https://morganwebdev.org/posts/retooling/</guid>
       <description>I have some time to retool and reconfigure my knowledge before being available to work again in December of this year. I have a list and order in which I plan to consult these amazing resources about programming. I have over five years of experience but there is a lot of low hanging fruit to gain by starting from some fundamentals:
 10/19: Goals  Learn JavaScript in y Minutes  Completed reviewing this   JavaScript Garden  Currently part way through   Learn JavaScript Online course  Completed initial chapters   Eloquent JavaScript  I plan to complete the entire book, it has been reccomended many times!</description>
-    </item>
-    
-    <item>
-      <title>Playwright: My intro</title>
-      <link>https://morganwebdev.org/posts/playwright/</link>
-      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/posts/playwright/</guid>
-      <description>I am enamored with Playwright. End to end integration testing is a huge topic but I can tell you just a few things about my experience from helping to integrate JavaScript E2E tests at work and in my spare time projects:
-First, I have to say I am sure I would have been enamored with experiencing the joy and utility of E2E testing with other frameworks as well including Cypress or TestCafe but Playwright is my first.</description>
     </item>
     
   </channel>

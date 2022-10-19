@@ -24,7 +24,7 @@ It is possible to experiment with the API by signing up and then entering the ke
 curl -X GET "https://api.congress.gov/v3/bill?format=json&api_key=KEYHERE" -H "accept: application/xml"
 ```
 
-Example Bills item in response back, as a 200:
+Example Bills api call response:
 
 ```
 {

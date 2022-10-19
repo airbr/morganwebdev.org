@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://morganwebdev.org/tags/playwright/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/posts/</loc>
     <lastmod>2022-10-17T08:00:00-08:00</lastmod>
   </url>
@@ -48,7 +53,17 @@
   </url>
   
   <url>
+    <loc>https://morganwebdev.org/tags/svelte/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/tags/</loc>
+    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/tailwind/</loc>
     <lastmod>2022-10-17T08:00:00-08:00</lastmod>
   </url>
   
@@ -134,11 +149,6 @@
   
   <url>
     <loc>https://morganwebdev.org/tags/html/</loc>
-    <lastmod>2022-08-13T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/playwright/</loc>
     <lastmod>2022-08-13T12:00:00-08:00</lastmod>
   </url>
   

@@ -45,6 +45,15 @@
     </item>
     
     <item>
+      <title>Playwright</title>
+      <link>https://morganwebdev.org/tags/playwright/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/playwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>React</title>
       <link>https://morganwebdev.org/tags/react/</link>
       <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
@@ -59,6 +68,24 @@
       <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svelte</title>
+      <link>https://morganwebdev.org/tags/svelte/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/svelte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailwind</title>
+      <link>https://morganwebdev.org/tags/tailwind/</link>
+      <pubDate>Mon, 17 Oct 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/tailwind/</guid>
       <description></description>
     </item>
     
@@ -203,15 +230,6 @@
       <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Playwright</title>
-      <link>https://morganwebdev.org/tags/playwright/</link>
-      <pubDate>Sat, 13 Aug 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/playwright/</guid>
       <description></description>
     </item>
     

@@ -32,9 +32,9 @@ I have some time to retool and reconfigure my knowledge before [being available 
 * [React](https://reactjs.org/)
 * [SASS](https://sass-lang.com/)
 
-I am currently building on my [Playwright](https://playwright.dev/) test writing experience in a few small projects and a project for a non-profit.
+I am currently building on my [Playwright](https://playwright.dev/) test writing experience in a few small projects and a project for a non-profit
 
-### Stretch Goals:
+Other goals:
 
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Svelte](https://svelte.dev/)

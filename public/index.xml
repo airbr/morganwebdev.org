@@ -93,11 +93,11 @@ I really like a bunch of things about Hugo. Notably I was able to get started in
     <item>
       <title>About me</title>
       <link>https://morganwebdev.org/about/</link>
-      <pubDate>Fri, 11 Dec 2020 17:51:42 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganwebdev.org/about/</guid>
-      <description>👋 Hey there! My name is Morgan. I am an American New Zealander living in Bellingham, Washington State. Before returning to the USA I graduated with an LLB/BA from the University of Otago. I became an Enrolled barrister and solicitor of the High Court of New Zealand on March 30th, 2015 at the High Court in Dunedin, New Zealand.
-When I returned to the USA in 2016 I considered for a while trying to practice law in the state of Georgia (where I was born and lived 1989-1997 and then briefly in 2016) - likely requiring further education and a waiver - but I turned against the idea and moved towards doing software instead.</description>
+      <description>👋 Hey there! My name is Morgan. I am an American New Zealander living in Bellingham, Washington State.
+I have been programming for approximately 5.5+ years after picking up developer skills as a career changer from law. I have worked on programs that are relied upon chairside by Orthodontists to provide real time information about their case. I have made front end features used in the websites of a Fortune 500 company.</description>
     </item>
     
   </channel>

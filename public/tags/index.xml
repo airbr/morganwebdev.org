@@ -7,7 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Mon, 17 Oct 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bash</title>
+      <link>https://morganwebdev.org/tags/bash/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Core Web Vitals</title>
+      <link>https://morganwebdev.org/tags/core-web-vitals/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/core-web-vitals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighthouse</title>
+      <link>https://morganwebdev.org/tags/lighthouse/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/lighthouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://morganwebdev.org/tags/performance/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting</title>
+      <link>https://morganwebdev.org/tags/reporting/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/reporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiteSpeed</title>
+      <link>https://morganwebdev.org/tags/sitespeed/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/sitespeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>https://morganwebdev.org/tags/unix/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Performance</title>
+      <link>https://morganwebdev.org/tags/web-performance/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/web-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YellowLabTools</title>
+      <link>https://morganwebdev.org/tags/yellowlabtools/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/yellowlabtools/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Eloquent JavaScript</title>
       <link>https://morganwebdev.org/tags/eloquent-javascript/</link>
@@ -275,15 +356,6 @@
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lighthouse</title>
-      <link>https://morganwebdev.org/tags/lighthouse/</link>
-      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/lighthouse/</guid>
       <description></description>
     </item>
     

@@ -7,14 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Thu, 06 Jan 2022 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This blog post is an SEO experiment</title>
-      <link>https://morganwebdev.org/posts/seo-experiment/</link>
-      <pubDate>Thu, 06 Jan 2022 12:00:00 -0800</pubDate>
+      <title>Performance</title>
+      <link>https://morganwebdev.org/posts/performance/</link>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 -0800</pubDate>
       
-      <guid>https://morganwebdev.org/posts/seo-experiment/</guid>
-      <description>There is a concept in SEO that link farms are bad. But what about Tags from a static site generator? I am adding a bunch of Tags to this post and seeing how it affects the site, If you found your way here from a tag, I welcome you. These tags were mostly taken from my public pinboard account </description>
+      <guid>https://morganwebdev.org/posts/performance/</guid>
+      <description>Web Performance is good (and can be fun) An example Lighthouse score:
+I have a growing interest in web performance. I get joy out of using web performance tools and hopefully getting a good score on the pages I work on. It is a little like working to get a gold star and then see your website perform out in the big world!
+Performance matters on a big scale and small scale - Core Web Vitals is a ranking factor for Google SEO.</description>
     </item>
     
   </channel>

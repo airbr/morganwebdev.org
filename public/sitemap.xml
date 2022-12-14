@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://morganwebdev.org/tags/bash/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/core-web-vitals/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/lighthouse/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/performance/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/performance/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/posts/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/reporting/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/sitespeed/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/unix/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/web-performance/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morganwebdev.org/tags/yellowlabtools/</loc>
+    <lastmod>2022-12-12T08:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://morganwebdev.org/about/</loc>
     <lastmod>2022-11-27T12:00:00+00:00</lastmod>
   </url>
@@ -28,17 +93,7 @@
   </url>
   
   <url>
-    <loc>https://morganwebdev.org/</loc>
-    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://morganwebdev.org/tags/playwright/</loc>
-    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/posts/</loc>
     <lastmod>2022-10-17T08:00:00-08:00</lastmod>
   </url>
   
@@ -59,11 +114,6 @@
   
   <url>
     <loc>https://morganwebdev.org/tags/svelte/</loc>
-    <lastmod>2022-10-17T08:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/</loc>
     <lastmod>2022-10-17T08:00:00-08:00</lastmod>
   </url>
   
@@ -184,11 +234,6 @@
   
   <url>
     <loc>https://morganwebdev.org/tags/css/</loc>
-    <lastmod>2022-05-21T12:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://morganwebdev.org/tags/lighthouse/</loc>
     <lastmod>2022-05-21T12:00:00-08:00</lastmod>
   </url>
   

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Performance on morganwebdev&#39;s blog</title>
-    <link>https://morganwebdev.org/tags/performance/</link>
-    <description>Recent content in Performance on morganwebdev&#39;s blog</description>
+    <title>YellowLabTools on morganwebdev&#39;s blog</title>
+    <link>https://morganwebdev.org/tags/yellowlabtools/</link>
+    <description>Recent content in YellowLabTools on morganwebdev&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Mon, 12 Dec 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/yellowlabtools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Performance</title>
       <link>https://morganwebdev.org/posts/performance/</link>

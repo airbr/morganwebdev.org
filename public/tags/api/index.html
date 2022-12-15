@@ -68,6 +68,21 @@ if (!doNotTrack) {
   async
   src="https://cdn.ampproject.org/v0/bento-lightbox-1.0.js"
 ></script>
+<script type="speculationrules">
+  {
+    "prerender": [
+      {
+        "source": "list",
+        "urls": [
+        "https://morganwebdev.org/posts/performance/", 
+        "https://morganwebdev.org/posts/retooling/",
+        "https://morganwebdev.org/posts/congress-api/",
+        "https://www.morganwebdev.org/about",
+        ]
+      }
+    ]
+  }
+  </script>
 <style>
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,

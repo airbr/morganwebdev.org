@@ -35,7 +35,7 @@ There are a number of web performance tools but there are three so far I have ex
 
 I see a benefit in running multiple kinds of tests and comparing the results against each other if anything is an issue.
 
-# My project idea: '[bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))' them togethor 
+# My project idea: [use Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) to stitch them togethor 
 
 ### [My small project on GitHub, a bash program that collects the results of performance tests from lighthouse, sitespeed and yellowlabtools: https://github.com/airbr/performance](https://github.com/airbr/performance)
 

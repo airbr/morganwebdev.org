@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+  <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Two AI Coding Tools in 2023 | morganwebdev&#39;s blog</title>
+  <link rel = 'canonical' href = 'https://morganwebdev.org/posts/ai-for-the-common-person/'>
+  <meta name="description" content="My name is Morgan Murrah. I am a developer focused on the web working remotely from Bellingham, Washington State, USA">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta property="og:title" content="Two AI Coding Tools in 2023" />
+<meta property="og:description" content="This post is an introduction to trying out two AI coding tools. I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://morganwebdev.org/posts/ai-for-the-common-person/" />
+<meta property="article:published_time" content="2023-01-11T12:00:00-08:00" />
+<meta property="article:modified_time" content="2023-01-11T12:00:00-08:00" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Two AI Coding Tools in 2023"/>
+<meta name="twitter:description" content="This post is an introduction to trying out two AI coding tools. I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt."/>
+
+  
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://morganwebdev.org/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
+
+  
+  
+  
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+<link rel="icon" type="image/png" href="https://morganwebdev.org/images/favicon.ico" />
+
+  
+  
+  
+  
+  
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-97240724-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+  
+  
+</head>
+
+<body class="max-width mx-auto px3 ltr">
+  <div class="content index py4">
+
+  <div id="header-post">
+  <a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;" aria-label="Top of Page"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <span id="menu">
+    <span id="nav">
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/posts">Writings</a></li>
+         
+        <li><a href="/tags">Tags</a></li>
+         
+        <li><a href="/about">About</a></li>
+        
+      </ul>
+    </span>
+    <br/>
+    <span id="actions">
+      <ul>
+        
+        <li>
+          <a class="icon" href=" https://morganwebdev.org/posts/performance/" aria-label="Previous">
+            <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" aria-label="Top of Page">
+            <i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i>
+          </a>
+        </li>
+        <li>
+          <a class="icon" href="#" aria-label="Share">
+            <i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i>
+          </a>
+        </li>
+      </ul>
+      <span id="i-prev" class="info" style="display:none;">Previous post</span>
+      <span id="i-next" class="info" style="display:none;">Next post</span>
+      <span id="i-top" class="info" style="display:none;">Back to top</span>
+      <span id="i-share" class="info" style="display:none;">Share post</span>
+    </span>
+    <br/>
+    <div id="share" style="display: none">
+      
+      <ul>
+  
+  
+    
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f" aria-label="Facebook">
+      <i class="fab fa-facebook " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&text=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Twitter">
+      <i class="fab fa-twitter " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&title=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Linkedin">
+      <i class="fab fa-linkedin " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&is_video=false&description=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Pinterest">
+      <i class="fab fa-pinterest " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=Two%20AI%20Coding%20Tools%20in%202023&body=Check out this article: https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f" aria-label="Email">
+      <i class="fas fa-envelope " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&title=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Pocket">
+      <i class="fab fa-get-pocket " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&title=Two%20AI%20Coding%20Tools%20in%202023" aria-label="reddit">
+      <i class="fab fa-reddit " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&name=Two%20AI%20Coding%20Tools%20in%202023&description=This%20post%20is%20an%20introduction%20to%20trying%20out%20two%20AI%20coding%20tools.%20I%20want%20to%20help%20put%20them%20into%20context%20and%20de-hype%20them%20a%20little%20bit%20but%20recognize%20their%20use%20cases.%20I%20have%20a%20strong%20personal%20opinion%20these%20tools%20are%20primarily%20suitable%20to%20certain%20educational%20environments%20such%20as%20a%20coding%20generation%20AI%20tool.%20Basically%2c%20I%20hope%20this%20guide%20helps%20you%20find%20usage%20of%20AI%20versus%20other%20methods%20as%20part%20of%20a%20balanced%20diet%20and%20toolbelt." aria-label="Tumblr">
+      <i class="fab fa-tumblr " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&t=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Hacker News">
+      <i class="fab fa-hacker-news " aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
+    
+    <div id="toc">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#lets-get-coding">Lets get coding!</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#prompts">Prompts</a></li>
+    <li><a href="#what-makes-a-good-prompt">What makes a good prompt?</a>
+      <ul>
+        <li><a href="#example">Example</a></li>
+      </ul>
+    </li>
+    <li><a href="#getting-results">Getting results</a></li>
+    <li><a href="#commentary-a-balanced-diet--limits">Commentary: a balanced diet &amp; limits</a></li>
+    <li><a href="#github-copilot-labshttpsgithubnextcomprojectscopilot-labs"><a href="https://githubnext.com/projects/copilot-labs/">Github Copilot Labs</a></a></li>
+  </ul>
+</nav>
+    </div>
+    
+  </span>
+</div>
+
+
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 class="posttitle" itemprop="name headline">
+        Two AI Coding Tools in 2023
+      </h1>
+      <div class="meta">
+        
+        <div class="postdate">
+          
+          <time datetime="2023-01-11 12:00:00 -0800 PST" itemprop="datePublished">2023-01-11</time>
+          
+        </div>
+        
+        
+        
+        
+        <div class="article-tag">
+            <i class="fas fa-tag"></i>
+            
+            
+            <a class="tag-link" href="/tags/ai" rel="tag">AI</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/coding" rel="tag">Coding</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/programming" rel="tag">Programming</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/css" rel="tag">CSS</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/reactjs" rel="tag">ReactJS</a>
+            
+             ,  
+            <a class="tag-link" href="/tags/prompt" rel="tag">Prompt</a>
+            
+        </div>
+        
+      </div>
+    </header>
+
+  
+    
+    <div class="content" itemprop="articleBody">
+      <p>This post is an introduction to trying out two AI coding tools. I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt.</p>
+<p>Products out there I am focusing on:</p>
+<ul>
+<li>Github Copilot (paid, in IDE, $10 a month)</li>
+<li>Replit Ghostwriter (paid, cycle units, in browser, $10 a month)</li>
+</ul>
+<p>Why these products?</p>
+<p>These two products are broadly representative of what current consumer coding AI tools are like with some organizational strength behind them. This is an &ldquo;every persons guide&rdquo; and there is a lot that goes into operationalizing an AI that we don&rsquo;t need to concern ourselves with. Github Copilot is available for a variety of local IDE&rsquo;s and REPLits Ghostwriter is available in a web IDE.</p>
+<p>Emerging products/uses <strong>not</strong> the focus of this post:</p>
+<ul>
+<li>
+<p>chatGPT and synthetic text generative AI’s as coding tools:</p>
+<ul>
+<li>There have been some attempts at using chatGPT as a coding tool but there are real flaws with it. It can produce some amazing looking attempts at coding but does not seem to follow the same kind of product as CoPilot or Ghostwriter which are trained exclusively on code and samples. It is an emerging field but I won&rsquo;t be focusing on it now.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://githubcopilotlitigation.com/">I am aware of legal issues facing Github Copilot</a>. This is due to the incompatible licensing of some of the code on GitHub that the model is trained on. This needs to be fixed but I don&rsquo;t think it should stop any individual user from learning about this tool. Seek your own advice before using it for anything commercial.</p>
+</li>
+</ul>
+<p>I think a set of observations has to begin this post:</p>
+<ul>
+<li>
+<p>They get it wrong. Filtering out what is wrong is an important and vital role of the programmer interacting with an AI coding tool.</p>
+</li>
+<li>
+<p>They get it (sorta) right. Being able to identify whats a roughly correct answer is still the domain of the programmer. Very rarely will an answer go without needing some kind of editing or pruning to work for your intended purpose.</p>
+</li>
+<li>
+<p>Sometimes it will give you something you didn&rsquo;t ask for but that you come to find useful anyways.</p>
+</li>
+<li>
+<p>Its just a tool. It should not be your only, main or first tool necessarily for different things</p>
+</li>
+</ul>
+<h2 id="lets-get-coding">Lets get coding!</h2>
+<h1 id="github-copilothttpsgithubcomfeaturescopilot"><a href="https://github.com/features/copilot">GitHub Copilot</a></h1>
+<p><img src="https://rewind.com/wp-content/uploads/2022/03/github-copilot-logo.jpeg" alt=""></p>
+<ol>
+<li><a href="https://github.com/join">Sign up to GitHub</a> &amp;&amp; <a href="https://github.com/features/copilot">Copilot</a></li>
+<li><a href="https://docs.github.com/en/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-visual-studio-code">Install extension in your IDE (I am using VS Code)</a></li>
+<li>Enable globally</li>
+</ol>
+<h2 id="prompts">Prompts</h2>
+<p>The essence of using Copilot is providing the AI prompts and it will provide a number of possible solutions. It will give suggestions in the text of the IDE for autocompleting prompts and then also show you highlighted potential solutions in the IDE.</p>
+<p>However, I strongly reccomend you use Ctrl + Enter for multiple suggestions- this is the real mode you want to use to exercise your brain.</p>
+<h2 id="what-makes-a-good-prompt">What makes a good prompt?</h2>
+<p>Well, it is a little bit of an art form you will work on as you experiment with the tool. Sometimes providing more detail and instructions confuses the AI and sometimes it helps. Sometimes a strong powerful use of keywords can produce some good results.</p>
+<p>A simple prompt can just be a comment in the language you are using in the file:</p>
+<h3 id="example">Example</h3>
+<ol>
+<li>
+<p>I created a file called &ldquo;<code>PageSpeedInsight.jsx</code>&rdquo;</p>
+</li>
+<li>
+<p>I entered this comment:</p>
+<ul>
+<li><code>// Create a React Component that displays pagespeed insights</code></li>
+</ul>
+</li>
+<li>
+<p>Hit Ctrl+Enter with my cursor below the comment</p>
+</li>
+</ol>
+<p>Bam! it created for me a complete and almost completely functional with little editing React Component that uses the PageSpeed Insights API! It seems like the few keywords dialed in on the code to synthesize something good.</p>
+<pre><code>// Create a React Component that displays pagespeed insights
+
+export function ReactComponent({ url }) {
+  const [data, setData] = React.useState(null);
+  const [error, setError] = React.useState(null);
+  const [loading, setLoading] = React.useState(false);
+
+  React.useEffect(() =&gt; {
+    if (!url) return;
+
+    setLoading(true);
+
+    fetch(`https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}`)
+      .then((response) =&gt; response.json())
+      .then((data) =&gt; {
+        setData(data);
+        setLoading(false);
+      })
+      .catch((error) =&gt; {
+        setError(error);
+        setLoading(false);
+      });
+  }, [url]);
+
+  if (loading) return &lt;p&gt;Loading...&lt;/p&gt;;
+  if (error) return &lt;p&gt;Error: {error.message}&lt;/p&gt;;
+  if (!data) return null;
+
+  return (
+    &lt;&gt;
+      &lt;h2&gt;React Component&lt;/h2&gt;
+      &lt;p&gt;{data.lighthouseResult.finalUrl}&lt;/p&gt;
+      &lt;p&gt;{data.lighthouseResult.categories.performance.score * 100}&lt;/p&gt;
+    &lt;/&gt;
+  );
+}
+</code></pre><p>It is possible on a very early initial level to sense how the AI is learning. The name and file type of your file will give the first initial big hint to Copilot what to do when it runs the prompt. The name of the function and content of the comment making the prompt will produce potentially wildly different results with small changes.</p>
+<h2 id="getting-results">Getting results</h2>
+<p>Sometimes your prompt will fail to produce any results. Sometimes it will produce output that is a repeated comment of your prompt over and over again. Its simple to just expect this regularly: the AI creates gibberish and unusable code when it seems to be confused.</p>
+<p>Opening the multiple answers side-panel with Ctrl + Enter will show potentially 10 synthesized answers per prompt. The real value out of this tool is seeing what kind of directions the different answers go even if none are suitable for using without a lot of editing- it is just like reading code to study, except there is a degree of interactivity which makes it excellent.</p>
+<h2 id="commentary-a-balanced-diet--limits">Commentary: a balanced diet &amp; limits</h2>
+<p>The real joy and sweet spot of using this tool is when you get initial feedback from a few prompts that pushes you forward in a direction you were already going. Sometimes it just saves you time doing boilerplate, or repetitive coding. GitHub itself heavily markets this aspect that you &ldquo;Spend more time doing what you enjoy doing&rdquo;.</p>
+<p>On the other side, there is a diminishing return to using Github Copilot for certain uses. Many questions cross domains of knowledge and languages, some rely on context and specific information that only you can easily access. Copilot is just a tool and it produces a lot of junk you need to sift through and often it simply is not worth it until you have studied more.</p>
+<p>However, there is also a use for this tool to help you get going when you are struggling. Just having the feedback from the suggested solutions might jog the issue and bring about progress.</p>
+<blockquote>
+<p>The coding solutions suggested by Copilot are limited by a maximum length and therefore only really used for snippets, rather than generating whole apps or multiple files.</p>
+</blockquote>
+<p>If you are lacking knowledge with a coding issue or programming issue it won&rsquo;t necessarily be of great help. It will often require specialized knowledge to implement the solutions into practice. For example, some solutions will include references to API keys which you may need to sign up for to be able to attempt to use.</p>
+<p>However, there are emerging features which make this learning feedback loop even more interesting:</p>
+<h2 id="github-copilot-labshttpsgithubnextcomprojectscopilot-labs"><a href="https://githubnext.com/projects/copilot-labs/">Github Copilot Labs</a></h2>
+<p>Github Copilot Labs is a VS Code extension for experimental applications of GitHub Copilot.</p>
+<p>This extension currently at time of writing provides multiple machine learning powered applications related to copilot including:</p>
+<ul>
+<li>Ability to explain code by entering a code snippet</li>
+<li>Language translation, porting solutions from one language to another</li>
+<li>&ldquo;Brushes&rdquo; - features such as adding Types, making code more readable, and documentation</li>
+</ul>
+<p>I have only barely experimented with these so I will leave here, just to say that they exist and are interesting to try.</p>
+<h1 id="ghostwriter-ai-in-the-web-idehttpsreplitcomsiteghostwriter"><a href="https://replit.com/site/ghostwriter">Ghostwriter: AI in the web IDE</a></h1>
+<p><img src="/live-completion-light.gif" alt=""></p>
+<p>I have enjoyed using REPLit as an educational resource and web IDE. So I was curious when I heard they were launching their own AI called Ghostwriter what that would be like.</p>
+<p>Like Github Copilot, Ghostwriter is a premium feature for $10 a month using the platforms cycles units.</p>
+<p>What strikes me as a point of difference is the ability to quickly generate code in a live web environment and see the results, potentially on many devices. From initial experimentation, there seems to be more of a focus or capability for CSS snippets and HTML that appeals to me.</p>
+<p>The following is a HTML page I created by running two generate prompts and inserting the output into the editor:</p>
+<ul>
+<li>Create a table of Presidents of the USA</li>
+<li>Create a Tic Tac Toe Board with CSS Grid</li>
+</ul>
+<p><img src="/tic-tac-toe.png" alt=""></p>
+<p>Like that, I was able to start to style and populate my little web app.</p>
+<p>However, pretty quickly, I was reminded that the AI gets confused and loves to bring you comments when it doesn&rsquo;t know what else to do:</p>
+<p><img src="/comment-confused.png" alt=""></p>
+<p>Overall, an interesting way to potentially spend $10. If you are coding on browsers for convenience, and especially if you are trying out <a href="https://replit.com/mobile">mobile coding on a phone</a> for some reason, REPLit is the way to go.</p>
+<h1 id="conclusions">Conclusions</h1>
+<p>As discussed, both of these tools have potential use cases. It is a little bit of an art and process to learn how to adapt to using the tools. Sometimes they amaze me. Sometimes it produces nothing of value.</p>
+<p>Programmers as creative knowledge workers and human beings will always have a role. I would encourage you to think of these AI tools as part of a balanced diet, a small part of your toolset.</p>
+
+    </div>
+  </article>
+
+  
+  
+
+
+
+
+
+
+  <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/posts">Writings</a></li>
+         
+          <li><a href="/tags">Tags</a></li>
+         
+          <li><a href="/about">About</a></li>
+        
+      </ul>
+    </div>
+
+    
+    <div id="toc-footer" style="display: none">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#lets-get-coding">Lets get coding!</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#prompts">Prompts</a></li>
+    <li><a href="#what-makes-a-good-prompt">What makes a good prompt?</a>
+      <ul>
+        <li><a href="#example">Example</a></li>
+      </ul>
+    </li>
+    <li><a href="#getting-results">Getting results</a></li>
+    <li><a href="#commentary-a-balanced-diet--limits">Commentary: a balanced diet &amp; limits</a></li>
+    <li><a href="#github-copilot-labshttpsgithubnextcomprojectscopilot-labs"><a href="https://githubnext.com/projects/copilot-labs/">Github Copilot Labs</a></a></li>
+  </ul>
+</nav>
+    </div>
+    
+
+    <div id="share-footer" style="display: none">
+      
+      <ul>
+  
+  
+    
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f" aria-label="Facebook">
+      <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&text=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Twitter">
+      <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&title=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Linkedin">
+      <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&is_video=false&description=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Pinterest">
+      <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=Two%20AI%20Coding%20Tools%20in%202023&body=Check out this article: https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f" aria-label="Email">
+      <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&title=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Pocket">
+      <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&title=Two%20AI%20Coding%20Tools%20in%202023" aria-label="reddit">
+      <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&name=Two%20AI%20Coding%20Tools%20in%202023&description=This%20post%20is%20an%20introduction%20to%20trying%20out%20two%20AI%20coding%20tools.%20I%20want%20to%20help%20put%20them%20into%20context%20and%20de-hype%20them%20a%20little%20bit%20but%20recognize%20their%20use%20cases.%20I%20have%20a%20strong%20personal%20opinion%20these%20tools%20are%20primarily%20suitable%20to%20certain%20educational%20environments%20such%20as%20a%20coding%20generation%20AI%20tool.%20Basically%2c%20I%20hope%20this%20guide%20helps%20you%20find%20usage%20of%20AI%20versus%20other%20methods%20as%20part%20of%20a%20balanced%20diet%20and%20toolbelt." aria-label="Tumblr">
+      <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fai-for-the-common-person%2f&t=Two%20AI%20Coding%20Tools%20in%202023" aria-label="Hacker News">
+      <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+      
+        <a id="menu-toggle" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;" aria-label="Menu">
+          <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        
+        <a id="toc-toggle" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;" aria-label="TOC">
+          <i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
+        
+        <a id="share-toggle" class="icon" href="#" onclick="$('#share-footer').toggle();return false;" aria-label="Share">
+          <i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" aria-label="Top of Page">
+          <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
+
+  </div>
+</div>
+
+
+  <footer id="footer">
+  <div class="footer-left">
+    Copyright  &copy; 2023  Morgan Murrah 
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+         
+        <li><a href="/">Home</a></li>
+         
+        <li><a href="/posts">Writings</a></li>
+         
+        <li><a href="/tags">Tags</a></li>
+         
+        <li><a href="/about">About</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+</body>
+
+<link rel="stylesheet" href=/lib/font-awesome/css/all.min.css>
+<script src=/lib/jquery/jquery.min.js></script>
+<script src=/js/main.js></script>
+
+<script src=/js/code-copy.js></script>
+
+
+
+
+</html>

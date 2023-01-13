@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on morganwebdev&#39;s blog</title>
+    <link>https://morganwebdev.org/tags/coding/</link>
+    <description>Recent content in Coding on morganwebdev&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Morgan Murrah</copyright>
+    <lastBuildDate>Wed, 11 Jan 2023 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two AI Coding Tools in 2023</title>
+      <link>https://morganwebdev.org/posts/ai-for-the-common-person/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/posts/ai-for-the-common-person/</guid>
+      <description>This post is an introduction to trying out two AI coding tools. I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt.</description>
+    </item>
+    
+  </channel>
+</rss>

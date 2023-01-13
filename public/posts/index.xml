@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Mon, 12 Dec 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two AI Coding Tools in 2023</title>
+      <link>https://morganwebdev.org/posts/ai-for-the-common-person/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/posts/ai-for-the-common-person/</guid>
+      <description>This post is an introduction to trying out two AI coding tools. I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt.</description>
+    </item>
+    
     <item>
       <title>Performance</title>
       <link>https://morganwebdev.org/posts/performance/</link>

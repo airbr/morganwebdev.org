@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Morgan Murrah</copyright>
-    <lastBuildDate>Mon, 12 Dec 2022 08:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 12:00:00 -0800</lastBuildDate><atom:link href="https://morganwebdev.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://morganwebdev.org/tags/ai/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>https://morganwebdev.org/tags/coding/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://morganwebdev.org/tags/css/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://morganwebdev.org/tags/programming/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt</title>
+      <link>https://morganwebdev.org/tags/prompt/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReactJS</title>
+      <link>https://morganwebdev.org/tags/reactjs/</link>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0800</pubDate>
+      
+      <guid>https://morganwebdev.org/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bash</title>
       <link>https://morganwebdev.org/tags/bash/</link>
@@ -347,15 +401,6 @@
       <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
       
       <guid>https://morganwebdev.org/tags/amphtml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>https://morganwebdev.org/tags/css/</link>
-      <pubDate>Sat, 21 May 2022 12:00:00 -0800</pubDate>
-      
-      <guid>https://morganwebdev.org/tags/css/</guid>
       <description></description>
     </item>
     

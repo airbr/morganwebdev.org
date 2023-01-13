@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+  <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> GitHub Mentoring | morganwebdev&#39;s blog</title>
+  <link rel = 'canonical' href = 'https://morganwebdev.org/posts/github-mentoring/'>
   <meta name="description" content="My name is Morgan Murrah. I am a developer focused on the web working remotely from Bellingham, Washington State, USA">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
@@ -24,7 +31,8 @@
     
   
   
-  <link rel="stylesheet" href="https://morganwebdev.org/css/style-white.css">
+  <link rel="stylesheet" href="https://morganwebdev.org/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
+
   
   
   
@@ -56,99 +64,15 @@ if (!doNotTrack) {
 
   
   
-
-  <link
-  rel="stylesheet"
-  type="text/css"
-  href="https://cdn.ampproject.org/v0/bento-lightbox-1.0.css"
-/>
-<script src="https://cdn.ampproject.org/bento.js"></script>
-<script
-  async
-  src="https://cdn.ampproject.org/v0/bento-lightbox-1.0.js"
-></script>
-<script type="speculationrules">
-  {
-    "prerender": [
-      {
-        "source": "list",
-        "urls": [
-        "/posts/performance/", 
-        "/posts/retooling/",
-        "/posts/congress-api/",
-        "/about"
-        ]
-      }
-    ]
-  }
-  </script>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-      'Segoe UI Symbol';
-    margin: 2rem;
-  }
-  button {
-    border: none;
-    padding: 1rem 2rem;
-    border-radius: 8px;
-    color: #269da3;
-    background: white;
-    font-size: 18px;
-    font-weight: bold;
-    margin-right: 1rem;
-  }
-  .lightbox-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #269da3;
-    height: 100%;
-    flex-direction: column;
-  }
-</style>
 </head>
 
 <body class="max-width mx-auto px3 ltr">
-
-  <div style="padding-top: 20px;">
-  <header id="header">
-  <a href="https://morganwebdev.org">
-  
-    <div id="logo" style="background-image: url(https://morganwebdev.org/images/logo.png)"></div>
-  
-  <div id="title">
-    <h1>morganwebdev&#39;s blog</h1>
-  </div>
-  </a>
-  <div id="nav">
-    <ul>
-      <li class="icon">
-        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
-      </li>
-      
-        <li><a href="/">Home</a></li>
-      
-        <li><a href="/posts">Writings</a></li>
-      
-        <li><a href="/tags">Tags</a></li>
-      
-        <li><a href="/about">About</a></li>
-      
-    </ul>
-  </div>
-</header>
-
-
-  </div>
-
   <div class="content index py4">
 
   <div id="header-post">
   <a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
   <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
-  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;" aria-label="Top of Page"><i class="fas fa-chevron-up fa-lg"></i></a>
   <span id="menu">
     <span id="nav">
       <ul>
@@ -168,25 +92,27 @@ if (!doNotTrack) {
       <ul>
         
         <li>
-          <a class="icon" href=" https://morganwebdev.org/posts/2020/">
+          <a class="icon" href=" https://morganwebdev.org/posts/2020/" aria-label="Previous">
             <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
           </a>
         </li>
         
         
         <li>
-          <a class="icon" href="https://morganwebdev.org/posts/paring-down-with-parcel/">
+          <a class="icon" href="https://morganwebdev.org/posts/paring-down-with-parcel/" aria-label="Next">
             <i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i>
           </a>
         </li>
         
         <li>
-          <a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+          <a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" aria-label="Top of Page">
             <i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i>
           </a>
         </li>
         <li>
-          
+          <a class="icon" href="#" aria-label="Share">
+            <i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i>
+          </a>
         </li>
       </ul>
       <span id="i-prev" class="info" style="display:none;">Previous post</span>
@@ -195,7 +121,133 @@ if (!doNotTrack) {
       <span id="i-share" class="info" style="display:none;">Share post</span>
     </span>
     <br/>
+    <div id="share" style="display: none">
+      
+      <ul>
+  
+  
     
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f" aria-label="Facebook">
+      <i class="fab fa-facebook " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&text=GitHub%20Mentoring" aria-label="Twitter">
+      <i class="fab fa-twitter " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&title=GitHub%20Mentoring" aria-label="Linkedin">
+      <i class="fab fa-linkedin " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&is_video=false&description=GitHub%20Mentoring" aria-label="Pinterest">
+      <i class="fab fa-pinterest " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=GitHub%20Mentoring&body=Check out this article: https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f" aria-label="Email">
+      <i class="fas fa-envelope " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&title=GitHub%20Mentoring" aria-label="Pocket">
+      <i class="fab fa-get-pocket " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&title=GitHub%20Mentoring" aria-label="reddit">
+      <i class="fab fa-reddit " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&name=GitHub%20Mentoring&description=Over%20the%20course%20of%202020%20and%202021%20thus%20far%20I%20have%20mentored%20seven%20up%20and%20coming%20software%20developers%20from%20several%20communities%3a%20Bellingham%20Codes%2c%20Tech404%20and%20Linkedin.%20I%20mentored%20them%20to%20optimize%20their%20GitHub%20account%20for%20prospective%20employers%2frecruiters%2fOSS%20opportunities.%20I%20spent%2020-40mins%20over%20Zoom%20with%20each%20of%20them%20and%20learned%20a%20lot%20myself%20about%20what%20it%20is%20like%20getting%20started%20in%20the%20industry%20today.%20As%20of%20writing%20this%2c%20I%20am%20aware%20that%20one%20person%20has%20landed%20a%20job%20and%20one%20has%20advanced%20in%20interview%20stages%20aided%20by%20their%20GitHub." aria-label="Tumblr">
+      <i class="fab fa-tumblr " aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&t=GitHub%20Mentoring" aria-label="Hacker News">
+      <i class="fab fa-hacker-news " aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
+    
+    <div id="toc">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#over-the-course-of-2020-and-2021-thus-far-i-have-mentored-seven-up-and-coming-software-developers-from-several-communities-bellingham-codeshttpsbellinghamcodes-tech404httpstech404githubio-and-linkedin-i-mentored-them-to-optimize-their-github-account-for-prospective-employersrecruitersoss-opportunities-i-spent-20-40mins-over-zoom-with-each-of-them-and-learned-a-lot-myself-about-what-it-is-like-getting-started-in-the-industry-today-as-of-writing-this-i-am-aware-that-one-person-has-landed-a-job-and-one-has-advanced-in-interview-stages-aided-by-their-github">Over the course of 2020 and 2021 thus far I have mentored seven up and coming software developers from several communities: <a href="https://bellingham.codes">Bellingham Codes</a>, <a href="https://tech404.github.io/">Tech404</a> and Linkedin. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. As of writing this, I am aware that one person has landed a job and one has advanced in interview stages aided by their GitHub.</a></li>
+    <li><a href="#this-blog-is-a-synthesis-of-what-i-was-taught-at-my-general-assembly-bootcamp-in-2016-my-lived-experience-as-a-developer-the-last-four-years-and-the-experience-of-mentoring-up-and-coming-developers-it-follows-a-few-stages-and-is-intended-for-someone-starting-out-in-the-industry">This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers. It follows a few stages and is intended for someone starting out in the industry.</a></li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues">What are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues-1">what are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues-2">What are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues-3">What are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#it-may-still-just-be-in-fact-school-work-but-it-is-rebranded-and-gives-a-different-impression-it-speaks-with-a-voice-from-you-not-the-school-or-tutorial-it-is-literally-just-rewording-a-few-words-in-your-description-i-recommend-doing-this-with-everything-and-at-least-doing-it-for-your-4-6-pinned-repos">It may still just be in fact school work but it is rebranded and gives a different impression: it speaks with a voice from you, not the school or tutorial. It is literally just rewording a few words in your description: I recommend doing this with everything and at least doing it for your 4-6 pinned repos.</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#update-this-mentee-got-a-job-they-absolutely-looked-at-my-github-it-was-only-brought-up-for-a-second-on-my-final-interview-and-they-liked-it-a-lot-i-believe-they-said-something-along-the-lines-of-how-active-i-was-but-they-also-talked-about-my-projects-i-have-pinned-they-didnt-know-about-my-portfolio-site-so-im-sure-they-saw-it-over-github">Update: This mentee got a job! &ldquo;They absolutely looked at my github. It was only brought up for a second on my final interview and they liked it a lot. I believe they said something along the lines of how active I was, but they also talked about my projects I have pinned. They didn&rsquo;t know about my portfolio site, so I&rsquo;m sure they saw it over github.&rdquo;</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#__it-really-was-excellent-opinionated-advice--i-would-encourage-others-to-reach-out-especially-if-youre-like-me-and-unsure-of-what-to-do-to-break-into-the-field-that-20-30-minutes-was-quite-the-confidence-booster__"><strong>It really was excellent opinionated advice,  I would encourage others to reach out especially if you&rsquo;re like me, and unsure of what to do to break into the field. That 20-30 minutes was quite the confidence booster</strong></a></li>
+            <li><a href="#__thank-you-for-looking-at-mine-morgan-i-also-encourage-folks-to-chat-him-up-for-some-advice__"><strong>Thank you for looking at mine, Morgan. I also encourage folks to chat him up for some advice</strong></a></li>
+            <li><a href="#__just-met-with-morgan-who-shared-many-useful-insights-i-highly-recommend-it-if-any-other-aspiring-developers-have-the-opportunity-thanks-morgan__"><strong>Just met with Morgan, who shared many useful insights. I highly recommend it if any other aspiring developers have the opportunity. Thanks, Morgan!</strong></a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#update-hey-morganm-i-just-heard-back-from-a-recruiter-that-she-is-interested-in-moving-me-forward-in-the-interview-process-only-because-of-my-github-profile-just-wanted-to-let-you-know-youre-making-a-difference-and-its-appreciated">Update: Hey @morganm, I just heard back from a recruiter that she is interested in moving me forward in the interview process only because of my GitHub profile. Just wanted to let you know you’re making a difference and it’s appreciated.</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#__thank-you-so-much-for-sharing-your-insight-and-advice-its-awesome-that-youre-doing-this-every-little-thing-you-suggested-was-incredibly-helpful-ive-started-making-some-improvements-and-theres-a-lot-more-i-still-want-to-do-based-on-your-suggestions__"><strong>Thank you so much for sharing your insight and advice. It’s awesome that you’re doing this. Every little thing you suggested was incredibly helpful. I’ve started making some improvements and there’s a lot more I still want to do based on your suggestions</strong></a></li>
+            <li><a href="#__directed-guidance-and-loads-of-information-thanks-for-the-mentoring-morganm--now-to-get-started-on-that-homework-cant-thank-you-enough__"><strong>Directed guidance and loads of information. Thanks for the mentoring @morganm . Now to get started on that homework! Can’t thank you enough</strong></a></li>
+            <li><a href="#__just-got-off-of-a-zoom-mentoring-session-with-morganm-he-had-a-ton-of-practical-actionable-advice-which-i-intend-to-put-into-practice-asap-i-feel-super-fortunate-to-have-found-bellinghamcodes-and-morgan-and-the-rest-of-the-helpful-friendly-folks-on-here-thanks-again-morgan__"><strong>Just got off of a zoom mentoring session with @morganm. He had a ton of practical, actionable advice which I intend to put into practice asap. I feel super fortunate to have found bellingham.codes and Morgan and the rest of the helpful, friendly folks on here. Thanks again, Morgan!</strong></a></li>
+            <li><a href="#__morgan-gave-me-insightful-feedback-on-my-github-and-taught-me-ways-to-highlight-specific-repos-ways-to-keep-up-to-late-with-the-latest-happenings-in-tech-and-provided-helpful-suggestions-about-how-to-streamline-project-descriptions-to-make-it-easier-for-potential-employers-to-browse-my-projects-i-even-got-a-few-bonus-tips-about-app-deployment-thanks-for-answering-all-my-questions-morgan__"><strong>Morgan gave me insightful feedback on my GitHub and taught me ways to highlight specific repos, ways to keep up to late with the latest happenings in tech, and provided helpful suggestions about how to streamline project descriptions to make it easier for potential employers to browse my projects. I even got a few bonus tips about app deployment! Thanks for answering all my questions, Morgan!</strong></a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
     
   </span>
 </div>
@@ -213,6 +265,8 @@ if (!doNotTrack) {
           <time datetime="2021-02-12 12:00:00 -0800 PST" itemprop="datePublished">2021-02-12</time>
           
         </div>
+        
+        
         
         
         <div class="article-tag">
@@ -245,6 +299,7 @@ if (!doNotTrack) {
     </header>
 
   
+    
     <div class="content" itemprop="articleBody">
       <h2 id="over-the-course-of-2020-and-2021-thus-far-i-have-mentored-seven-up-and-coming-software-developers-from-several-communities-bellingham-codeshttpsbellinghamcodes-tech404httpstech404githubio-and-linkedin-i-mentored-them-to-optimize-their-github-account-for-prospective-employersrecruitersoss-opportunities-i-spent-20-40mins-over-zoom-with-each-of-them-and-learned-a-lot-myself-about-what-it-is-like-getting-started-in-the-industry-today-as-of-writing-this-i-am-aware-that-one-person-has-landed-a-job-and-one-has-advanced-in-interview-stages-aided-by-their-github">Over the course of 2020 and 2021 thus far I have mentored seven up and coming software developers from several communities: <a href="https://bellingham.codes">Bellingham Codes</a>, <a href="https://tech404.github.io/">Tech404</a> and Linkedin. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. As of writing this, I am aware that one person has landed a job and one has advanced in interview stages aided by their GitHub.</h2>
 <h2 id="this-blog-is-a-synthesis-of-what-i-was-taught-at-my-general-assembly-bootcamp-in-2016-my-lived-experience-as-a-developer-the-last-four-years-and-the-experience-of-mentoring-up-and-coming-developers-it-follows-a-few-stages-and-is-intended-for-someone-starting-out-in-the-industry">This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers. It follows a few stages and is intended for someone starting out in the industry.</h2>
@@ -503,6 +558,7 @@ Exercises from chapters 3-5 from Database programming 5th edition;</p>
 
 
 
+
   <div id="footer-post-container">
   <div id="footer-post">
 
@@ -521,16 +577,146 @@ Exercises from chapters 3-5 from Database programming 5th edition;</p>
     </div>
 
     
+    <div id="toc-footer" style="display: none">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#over-the-course-of-2020-and-2021-thus-far-i-have-mentored-seven-up-and-coming-software-developers-from-several-communities-bellingham-codeshttpsbellinghamcodes-tech404httpstech404githubio-and-linkedin-i-mentored-them-to-optimize-their-github-account-for-prospective-employersrecruitersoss-opportunities-i-spent-20-40mins-over-zoom-with-each-of-them-and-learned-a-lot-myself-about-what-it-is-like-getting-started-in-the-industry-today-as-of-writing-this-i-am-aware-that-one-person-has-landed-a-job-and-one-has-advanced-in-interview-stages-aided-by-their-github">Over the course of 2020 and 2021 thus far I have mentored seven up and coming software developers from several communities: <a href="https://bellingham.codes">Bellingham Codes</a>, <a href="https://tech404.github.io/">Tech404</a> and Linkedin. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. As of writing this, I am aware that one person has landed a job and one has advanced in interview stages aided by their GitHub.</a></li>
+    <li><a href="#this-blog-is-a-synthesis-of-what-i-was-taught-at-my-general-assembly-bootcamp-in-2016-my-lived-experience-as-a-developer-the-last-four-years-and-the-experience-of-mentoring-up-and-coming-developers-it-follows-a-few-stages-and-is-intended-for-someone-starting-out-in-the-industry">This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers. It follows a few stages and is intended for someone starting out in the industry.</a></li>
+  </ul>
 
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues">What are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues-1">what are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues-2">What are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-the-common-issues-3">What are the common issues?</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#it-may-still-just-be-in-fact-school-work-but-it-is-rebranded-and-gives-a-different-impression-it-speaks-with-a-voice-from-you-not-the-school-or-tutorial-it-is-literally-just-rewording-a-few-words-in-your-description-i-recommend-doing-this-with-everything-and-at-least-doing-it-for-your-4-6-pinned-repos">It may still just be in fact school work but it is rebranded and gives a different impression: it speaks with a voice from you, not the school or tutorial. It is literally just rewording a few words in your description: I recommend doing this with everything and at least doing it for your 4-6 pinned repos.</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#update-this-mentee-got-a-job-they-absolutely-looked-at-my-github-it-was-only-brought-up-for-a-second-on-my-final-interview-and-they-liked-it-a-lot-i-believe-they-said-something-along-the-lines-of-how-active-i-was-but-they-also-talked-about-my-projects-i-have-pinned-they-didnt-know-about-my-portfolio-site-so-im-sure-they-saw-it-over-github">Update: This mentee got a job! &ldquo;They absolutely looked at my github. It was only brought up for a second on my final interview and they liked it a lot. I believe they said something along the lines of how active I was, but they also talked about my projects I have pinned. They didn&rsquo;t know about my portfolio site, so I&rsquo;m sure they saw it over github.&rdquo;</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#__it-really-was-excellent-opinionated-advice--i-would-encourage-others-to-reach-out-especially-if-youre-like-me-and-unsure-of-what-to-do-to-break-into-the-field-that-20-30-minutes-was-quite-the-confidence-booster__"><strong>It really was excellent opinionated advice,  I would encourage others to reach out especially if you&rsquo;re like me, and unsure of what to do to break into the field. That 20-30 minutes was quite the confidence booster</strong></a></li>
+            <li><a href="#__thank-you-for-looking-at-mine-morgan-i-also-encourage-folks-to-chat-him-up-for-some-advice__"><strong>Thank you for looking at mine, Morgan. I also encourage folks to chat him up for some advice</strong></a></li>
+            <li><a href="#__just-met-with-morgan-who-shared-many-useful-insights-i-highly-recommend-it-if-any-other-aspiring-developers-have-the-opportunity-thanks-morgan__"><strong>Just met with Morgan, who shared many useful insights. I highly recommend it if any other aspiring developers have the opportunity. Thanks, Morgan!</strong></a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#update-hey-morganm-i-just-heard-back-from-a-recruiter-that-she-is-interested-in-moving-me-forward-in-the-interview-process-only-because-of-my-github-profile-just-wanted-to-let-you-know-youre-making-a-difference-and-its-appreciated">Update: Hey @morganm, I just heard back from a recruiter that she is interested in moving me forward in the interview process only because of my GitHub profile. Just wanted to let you know you’re making a difference and it’s appreciated.</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#__thank-you-so-much-for-sharing-your-insight-and-advice-its-awesome-that-youre-doing-this-every-little-thing-you-suggested-was-incredibly-helpful-ive-started-making-some-improvements-and-theres-a-lot-more-i-still-want-to-do-based-on-your-suggestions__"><strong>Thank you so much for sharing your insight and advice. It’s awesome that you’re doing this. Every little thing you suggested was incredibly helpful. I’ve started making some improvements and there’s a lot more I still want to do based on your suggestions</strong></a></li>
+            <li><a href="#__directed-guidance-and-loads-of-information-thanks-for-the-mentoring-morganm--now-to-get-started-on-that-homework-cant-thank-you-enough__"><strong>Directed guidance and loads of information. Thanks for the mentoring @morganm . Now to get started on that homework! Can’t thank you enough</strong></a></li>
+            <li><a href="#__just-got-off-of-a-zoom-mentoring-session-with-morganm-he-had-a-ton-of-practical-actionable-advice-which-i-intend-to-put-into-practice-asap-i-feel-super-fortunate-to-have-found-bellinghamcodes-and-morgan-and-the-rest-of-the-helpful-friendly-folks-on-here-thanks-again-morgan__"><strong>Just got off of a zoom mentoring session with @morganm. He had a ton of practical, actionable advice which I intend to put into practice asap. I feel super fortunate to have found bellingham.codes and Morgan and the rest of the helpful, friendly folks on here. Thanks again, Morgan!</strong></a></li>
+            <li><a href="#__morgan-gave-me-insightful-feedback-on-my-github-and-taught-me-ways-to-highlight-specific-repos-ways-to-keep-up-to-late-with-the-latest-happenings-in-tech-and-provided-helpful-suggestions-about-how-to-streamline-project-descriptions-to-make-it-easier-for-potential-employers-to-browse-my-projects-i-even-got-a-few-bonus-tips-about-app-deployment-thanks-for-answering-all-my-questions-morgan__"><strong>Morgan gave me insightful feedback on my GitHub and taught me ways to highlight specific repos, ways to keep up to late with the latest happenings in tech, and provided helpful suggestions about how to streamline project descriptions to make it easier for potential employers to browse my projects. I even got a few bonus tips about app deployment! Thanks for answering all my questions, Morgan!</strong></a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
     
+
+    <div id="share-footer" style="display: none">
+      
+      <ul>
+  
+  
+    
+  
+  
+  <li>
+    <a class="icon" href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f" aria-label="Facebook">
+      <i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&text=GitHub%20Mentoring" aria-label="Twitter">
+      <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&title=GitHub%20Mentoring" aria-label="Linkedin">
+      <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&is_video=false&description=GitHub%20Mentoring" aria-label="Pinterest">
+      <i class="fab fa-pinterest fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="mailto:?subject=GitHub%20Mentoring&body=Check out this article: https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f" aria-label="Email">
+      <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&title=GitHub%20Mentoring" aria-label="Pocket">
+      <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&title=GitHub%20Mentoring" aria-label="reddit">
+      <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&name=GitHub%20Mentoring&description=Over%20the%20course%20of%202020%20and%202021%20thus%20far%20I%20have%20mentored%20seven%20up%20and%20coming%20software%20developers%20from%20several%20communities%3a%20Bellingham%20Codes%2c%20Tech404%20and%20Linkedin.%20I%20mentored%20them%20to%20optimize%20their%20GitHub%20account%20for%20prospective%20employers%2frecruiters%2fOSS%20opportunities.%20I%20spent%2020-40mins%20over%20Zoom%20with%20each%20of%20them%20and%20learned%20a%20lot%20myself%20about%20what%20it%20is%20like%20getting%20started%20in%20the%20industry%20today.%20As%20of%20writing%20this%2c%20I%20am%20aware%20that%20one%20person%20has%20landed%20a%20job%20and%20one%20has%20advanced%20in%20interview%20stages%20aided%20by%20their%20GitHub." aria-label="Tumblr">
+      <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+  <li>
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fmorganwebdev.org%2fposts%2fgithub-mentoring%2f&t=GitHub%20Mentoring" aria-label="Hacker News">
+      <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
+    </a>
+  </li>
+</ul>
+
+    </div>
 
     <div id="actions-footer">
       
-        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;">
+        <a id="menu-toggle" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;" aria-label="Menu">
           <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
         
+        <a id="toc-toggle" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;" aria-label="TOC">
+          <i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
         
-        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+        <a id="share-toggle" class="icon" href="#" onclick="$('#share-footer').toggle();return false;" aria-label="Share">
+          <i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" aria-label="Top of Page">
           <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
     </div>
 
@@ -566,6 +752,9 @@ Exercises from chapters 3-5 from Database programming 5th edition;</p>
 <link rel="stylesheet" href=/lib/font-awesome/css/all.min.css>
 <script src=/lib/jquery/jquery.min.js></script>
 <script src=/js/main.js></script>
+
+<script src=/js/code-copy.js></script>
+
 
 
 

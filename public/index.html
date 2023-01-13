@@ -2,9 +2,16 @@
 <html lang="en-us">
 <head>
 	<meta name="generator" content="Hugo 0.79.0" />
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/font-awesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/lib/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+  <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>morganwebdev&#39;s blog</title>
+  <link rel = 'canonical' href = 'https://morganwebdev.org/'>
   <meta name="description" content="My name is Morgan Murrah. I am a developer focused on the web working remotely from Bellingham, Washington State, USA">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
@@ -24,7 +31,8 @@
     
   
   
-  <link rel="stylesheet" href="https://morganwebdev.org/css/style-white.css">
+  <link rel="stylesheet" href="https://morganwebdev.org/css/styles.94f653e9e151e28067a7c5dbbc4600cbd5a3c721e79faaf971e523c40f3b249b8e4f20bb57810dfffa8d559ca5c140fd56eb4cd9c0853113ad08e66afdb08bdd.css" integrity="sha512-lPZT6eFR4oBnp8XbvEYAy9WjxyHnn6r5ceUjxA87JJuOTyC7V4EN//qNVZylwUD9VutM2cCFMROtCOZq/bCL3Q=="> 
+
   
   
   
@@ -58,58 +66,6 @@ if (!doNotTrack) {
 
   
   
-
-  <link
-  rel="stylesheet"
-  type="text/css"
-  href="https://cdn.ampproject.org/v0/bento-lightbox-1.0.css"
-/>
-<script src="https://cdn.ampproject.org/bento.js"></script>
-<script
-  async
-  src="https://cdn.ampproject.org/v0/bento-lightbox-1.0.js"
-></script>
-<script type="speculationrules">
-  {
-    "prerender": [
-      {
-        "source": "list",
-        "urls": [
-        "/posts/performance/", 
-        "/posts/retooling/",
-        "/posts/congress-api/",
-        "/about"
-        ]
-      }
-    ]
-  }
-  </script>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-      Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-      'Segoe UI Symbol';
-    margin: 2rem;
-  }
-  button {
-    border: none;
-    padding: 1rem 2rem;
-    border-radius: 8px;
-    color: #269da3;
-    background: white;
-    font-size: 18px;
-    font-weight: bold;
-    margin-right: 1rem;
-  }
-  .lightbox-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #269da3;
-    height: 100%;
-    flex-direction: column;
-  }
-</style>
 </head>
 
 <body class="max-width mx-auto px3 ltr">
@@ -127,7 +83,7 @@ if (!doNotTrack) {
   <div id="nav">
     <ul>
       <li class="icon">
-        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+        <a href="#" aria-label="Menu"><i class="fas fa-bars fa-2x" aria-hidden="true"></i></a>
       </li>
       
         <li><a href="/">Home</a></li>
@@ -145,9 +101,7 @@ if (!doNotTrack) {
 
 
     
-  <section id="about" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <img src="/headshot.png" alt="An image of my face" style="max-width: 250px; border-radius: 16px;">
-  <br>
+  <section id="about">
   
     My name is Morgan Murrah. I am a developer focused on the web working remotely from Bellingham, Washington State, USA
   
@@ -156,34 +110,163 @@ if (!doNotTrack) {
       
       
       
-        <a class="icon" target="_blank" aria-label="github link" rel="noopener" href="https://github.com/airbr">
-          <i class="fab fa-github"></i>
+        <a class="icon" target="_blank" rel="noopener" href="https://github.com/airbr" aria-label="github">
+          <i class="fab fa-github" aria-hidden="true"></i>
         </a>
         
          , 
       
       
-        <a class="icon" target="_blank" aria-label="linkedin link" rel="noopener" href="https://www.linkedin.com/in/mmurrah/">
-          <i class="fab fa-linkedin"></i>
+        <a class="icon" target="_blank" rel="noopener" href="https://www.linkedin.com/in/mmurrah/" aria-label="linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
         </a>
         
          and 
       
       
-        <a class="icon" target="_blank" aria-label="html5 link" rel="noopener" href="https://www.morganwebdev.com">
-          <i class="fab fa-html5"></i>
+        <a class="icon" target="_blank" rel="noopener" href="https://www.morganwebdev.com" aria-label="html5">
+          <i class="fab fa-html5" aria-hidden="true"></i>
         </a>
         
         .
       
       </p>
   
-  </section>
   
-  <section id="writing">
-    <span class="h1" style="margin-top: 1em;"><a href="https://morganwebdev.org/posts">All Writings</a></span>
+  </section>
 
-    <span class="h2">Most Recent</span>
+  <section id="writing">
+    <span class="h1"><a href="https://morganwebdev.org/posts">Writings</a></span>
+    
+    <span class="h2">Topics</span>
+    <span class="widget tagcloud">
+      
+      
+      <a style="font-size: 2rem;" href="https://morganwebdev.org/tags/2020/">2020</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/amp/">AMP</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/amp-validator/">AMP Validator</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/amphtml/">AMPHTML</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/api/">API</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/aria/">ARIA</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/bash/">Bash</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/bills/">Bills</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/blog/">blog</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/browsers/">Browsers</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/bundler/">Bundler</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/cd/">CD</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/ci/">CI</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/code/">code</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/codegen/">Codegen</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/congress/">Congress</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/congress.gov/">Congress.gov</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/congress.gov-api/">Congress.gov API</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/core-web-vitals/">Core Web Vitals</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/css/">CSS</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/developer/">developer</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/devices/">Devices</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/docker/">Docker</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/e2e/">E2E</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/eloquent-javascript/">Eloquent JavaScript</a>
+      
+      <a style="font-size: 2rem;" href="https://morganwebdev.org/tags/github/">github</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/gov/">Gov</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/headless/">Headless</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/hexo/">hexo</a>
+      
+      <a style="font-size: 2rem;" href="https://morganwebdev.org/tags/html/">HTML</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/hugo/">hugo</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/industry/">industry</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/interviewing/">interviewing</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/javascript/">JavaScript</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/javascript-garden/">JavaScript Garden</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/learn-x-in-y-minutes/">Learn X in Y Minutes</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/lighthouse/">Lighthouse</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/mentoring/">mentoring</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/netlify/">netlify</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/new/">new</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/pagination/">pagination</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/parcel.js/">parcel.js</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/performance/">Performance</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/personal-website/">Personal website</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/playwright/">Playwright</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/react/">React</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/reporting/">Reporting</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/sass/">SASS</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/security/">security</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/sitespeed/">SiteSpeed</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/svelte/">Svelte</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/svg/">SVG</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/tailwind/">Tailwind</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/testing/">Testing</a>
+      
+      <a style="font-size: 1.5rem;" href="https://morganwebdev.org/tags/tinyicons/">TinyIcons</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/topics/">topics</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/typescript/">TypeScript</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/unix/">Unix</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/web-performance/">Web Performance</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/webpagetest/">WebPageTest</a>
+      
+      <a style="font-size: 1rem;" href="https://morganwebdev.org/tags/yellowlabtools/">YellowLabTools</a>
+      
+    </span>
+    <span class="h2">Most recent</span>
+    
 
     
     
@@ -246,136 +329,6 @@ if (!doNotTrack) {
 
 
     
-
-    
-    <span class="h2">Topics</span>
-    <span class="widget tagcloud">
-      
-      
-      <a style="font-size: 1.2rem;" href="https://morganwebdev.org/tags/2020/">2020</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/amp/">AMP</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/amp-validator/">AMP Validator</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/amphtml/">AMPHTML</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/api/">API</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/aria/">ARIA</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/bash/">Bash</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/bills/">Bills</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/blog/">blog</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/browsers/">Browsers</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/bundler/">Bundler</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/cd/">CD</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/ci/">CI</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/code/">code</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/codegen/">Codegen</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/congress/">Congress</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/congress.gov/">Congress.gov</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/congress.gov-api/">Congress.gov API</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/core-web-vitals/">Core Web Vitals</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/css/">CSS</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/developer/">developer</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/devices/">Devices</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/docker/">Docker</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/e2e/">E2E</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/eloquent-javascript/">Eloquent JavaScript</a>
-      
-      <a style="font-size: 1.2rem;" href="https://morganwebdev.org/tags/github/">github</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/gov/">Gov</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/headless/">Headless</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/hexo/">hexo</a>
-      
-      <a style="font-size: 1.2rem;" href="https://morganwebdev.org/tags/html/">HTML</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/hugo/">hugo</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/industry/">industry</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/interviewing/">interviewing</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/javascript/">JavaScript</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/javascript-garden/">JavaScript Garden</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/learn-x-in-y-minutes/">Learn X in Y Minutes</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/lighthouse/">Lighthouse</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/mentoring/">mentoring</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/netlify/">netlify</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/new/">new</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/pagination/">pagination</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/parcel.js/">parcel.js</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/performance/">Performance</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/personal-website/">Personal website</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/playwright/">Playwright</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/react/">React</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/reporting/">Reporting</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/sass/">SASS</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/security/">security</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/sitespeed/">SiteSpeed</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/svelte/">Svelte</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/svg/">SVG</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/tailwind/">Tailwind</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/testing/">Testing</a>
-      
-      <a style="font-size: 0.8rem;" href="https://morganwebdev.org/tags/tinyicons/">TinyIcons</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/topics/">topics</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/typescript/">TypeScript</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/unix/">Unix</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/web-performance/">Web Performance</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/webpagetest/">WebPageTest</a>
-      
-      <a style="font-size: 0.4rem;" href="https://morganwebdev.org/tags/yellowlabtools/">YellowLabTools</a>
-      
-    </span>
-    
   </section>
 
   
@@ -385,8 +338,10 @@ if (!doNotTrack) {
   
     
     
+      
+    
   <section id="projects">
-    <span class="h1"><a href="#">Projects</a></span>
+    <span class="h1"><a href="https://github.com/gohugoio">Projects</a></span>
     <ul class="project-list">
         
         <li class="project-item">

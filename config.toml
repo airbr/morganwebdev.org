@@ -39,6 +39,7 @@ weight = 4
       unsafe = true
 
 [params]
+  css = ["css/custom.css"]
   # dark, light, white, or classic
   colortheme = "white" 
   rss = true # generate rss feed. default value is false
